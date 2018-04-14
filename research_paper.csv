@@ -1,0 +1,2508 @@
+Title,Conference
+Innovation in Database Management: Computer Science vs. Engineering.,VLDB
+High performance prime field multiplication for GPU.,ISCAS
+enchanted scissors: a scissor interface for support in cutting and interactive fabrication.,SIGGRAPH
+Detection of channel degradation attack by Intermediary Node in Linear Networks.,INFOCOM
+Pinning a Complex Network through the Betweenness Centrality Strategy.,ISCAS
+Analysis and Design of Memoryless Interconnect Encoding Scheme.,ISCAS
+Dynamic bluescreens.,SIGGRAPH
+A Quantitative Assured Forwarding Service.,INFOCOM
+Automatic sanitization of social network data to prevent inference attacks.,WWW
+A &#916;&#931; IR-UWB radar with sub-mm ranging capability for human body monitoring systems.,ISCAS
+Architecture of a multi-slot main memory system for 3.2 Gbps operation.,ISCAS
+Rule-based Service Customization via Houdini.,WWW
+Business Policy Modeling and Enforcement in Databases.,VLDB
+A high speed and high linearity OTA in 1-V power supply voltage.,ISCAS
+PREDIcT: Towards Predicting the Runtime of Large Scale Iterative Analytics.,VLDB
+SocialSensor: sensing user generated input for improved media discovery and experience.,WWW
+Parametric keyframe interpolation incorporating kinetic adjustment and phrasing control.,SIGGRAPH
+An Explanation for Unexpected 802.11 Outdoor Link-level Measurement Results.,INFOCOM
+Hot Block Clustering for Disk Arrays with Dynamic Striping.,VLDB
+Analysis of propagation delay in 3 - D stacked DRAM.,ISCAS
+ISHair: importance sampling for hair scattering.,SIGGRAPH
+Green Wave: Latency and Capacity-Efficient Sleep Scheduling for Wireless Networks.,INFOCOM
+Exploiting innocuous activity for correlating users across sites.,WWW
+Optimized numerical mapping scheme for filter-based exon location in DNA using a quasi-Newton algorithm.,ISCAS
+Nyquist criterion based design of continuous time Sigma Delta modulators.,ISCAS
+Fast Transient Simulation of Lossy Transmission Lines.,ISCAS
+Image sensor with focal plane polarization sensitivity.,ISCAS
+Power-oriented delay budgeting for combinational circuits.,ISCAS
+Sensor Network Navigation without Locations.,INFOCOM
+Simplified logic design methodology for fuzzy membership function based robust detection of maternal modulus maxima location: A low complexity Fetal ECG extraction architecture for mobile health monitoring systems.,ISCAS
+E-V: Efficient visual surveillance with electronic footprints.,INFOCOM
+Analysis of Price Competition in a Slotted Resource Allocation Game.,INFOCOM
+A language for shading and lighting calculations.,SIGGRAPH
+Integration of Streaming and Elastic Traffic in Wireless Networks.,INFOCOM
+MATE: MPLS Adaptive Traffic Engineering.,INFOCOM
+Surround-screen projection-based virtual reality: the design and implementation of the CAVE.,SIGGRAPH
+Output Characteristics of Class E Amplifier With Nonlinear Shunt Capacitance Versus Supply Voltage.,ISCAS
+Predicting reflectance functions from complex surfaces.,SIGGRAPH
+ActionView: a Movement-analysis Ambulatory Monitor in Elderly Homecare Systems.,ISCAS
+Live demonstration: Packet-based AER with 3Gevent/s cumulative throughput.,ISCAS
+Adaptive electricity scheduling in microgrids.,INFOCOM
+Design of a 64-bit Low-energy High-performance Adder using Dynamic Feedthrough Logic.,ISCAS
+Minimax Design of IIR Digital Filters using SDP Relaxation Technique.,ISCAS
+Propagation and Reflection of Phase Differences on a Lattice of Coupled Oscillators.,ISCAS
+Query Optimization in the Presence of Foreign Functions.,VLDB
+Parallelizing query optimization.,VLDB
+Optimizing the Topology of Bluetooth Wireless Personal Area Networks.,INFOCOM
+A Scalable Algorithm for Maximizing Range Sum in Spatial Databases.,VLDB
+Coexistence and Transformation of Data.,VLDB
+Power transfer networks at RF frequencies: new design procedures with implementation roadmap.,ISCAS
+A distributed amplifier based dispersive delay line.,ISCAS
+High-speed front end for LED-Photodiode based fluorescence lifetime measurement system.,ISCAS
+Simple sybil-proof mechanisms for multi-level marketing.,INFOCOM
+Rants: a framework for rank editing and sharing in web search.,WWW
+Mobile search pattern evolution: the trend and the impact of voice queries.,WWW
+Data summaries for on-demand queries over linked data.,WWW
+Compressive sampling of EMG bio-signals.,ISCAS
+Anthropocentric Data Systems.,VLDB
+Estimating clustering coefficients and size of social networks via random walk.,WWW
+CALMS: Cloud-assisted live media streaming for globalized demands with time/region diversities.,INFOCOM
+Quadrature generation techniques for frequency multiplication based oscillators.,ISCAS
+Topology design for fast convergence of network consensus algorithms.,ISCAS
+Analysis of power supply gain of CMOS bandgap references.,ISCAS
+A Scalable Method for Access Control in Location-Based Broadcast Services.,INFOCOM
+A novel Fisher discriminant for biometrics recognition: 2DPCA plus 2DFLD.,ISCAS
+A framework for benchmarking entity-annotation systems.,WWW
+A physically based approach to 2-D shape blending.,SIGGRAPH
+Effects of the recession on public mood in the UK.,WWW
+GIO: a semantic web application using the information grid framework.,WWW
+Maximum likelihood disjunctive decomposition to reduced multirooted DAG for FIR filter design.,ISCAS
+SocioCrowd: a social-network-based framework for crowd simulation.,SIGGRAPH
+A MATLAB based optimum multiband FIR filters design program following the original idea of the Remez multiple exchange algorithm.,ISCAS
+Touchy.Internet: a cybernetics system for human-pet interaction through the Internet.,SIGGRAPH
+Social status and role analysis of palin's email network.,WWW
+A fast hash tree generator for Merkle signature scheme.,ISCAS
+GPU Powered Artificial Immune System for Visual Applications.,ISCAS
+Linear combination of transformations.,SIGGRAPH
+10GBase-LX4 Limiting Amplifier in 0.18 &micro;m CMOS Digital Process with Tunable Shunt-peaking.,ISCAS
+Randomization tests for distinguishing social influence and homophily effects.,WWW
+Pricing algorithms for the day-ahead electricity market with flexible consumer participation.,INFOCOM
+"WS-CatalogNet: An Infrastructure for Creating, Peering, and Querying e-Catalog Communities.",VLDB
+Intelligent ad resizing.,WWW
+A 4-Kb low power 4-T SRAM design with negative word-line gate drive.,ISCAS
+A memory-efficient continuous-flow FFT processor for Wimax application.,ISCAS
+Statistical Multiplexing Over DSL Networks.,INFOCOM
+A Novel Quantitative Approach For Measuring Network Security.,INFOCOM
+Comparative analysis of contrast enhancement algorithms in surveillance imaging.,ISCAS
+Fast video coding based on Gaussian model of DCT coefficients.,ISCAS
+Non-linear aperture for stylized depth of field.,SIGGRAPH
+"MegaMind: fire, smoke and data.",SIGGRAPH
+Simulation of object and human skin formations in a grasping task.,SIGGRAPH
+Wireless integrated circuit for the acquisition of electrocorticogram signals.,ISCAS
+Privacy nudges for social media: an exploratory Facebook study.,WWW
+Secure continuous aggregation via sampling-based verification in wireless sensor networks.,INFOCOM
+On rigorous integration of piece-wise linear continuous systems.,ISCAS
+Visibly pushdown automata for streaming XML.,WWW
+Video Multicast in (Large) Local Area Networks.,INFOCOM
+Process-insensitive modulated-clock voltage comparator.,ISCAS
+An Efficient Prony's Method for Time-varying Power System Harmonic Estimation.,ISCAS
+A novel CAVLC architecture for H.264 Video encoding at high bit-rate.,ISCAS
+Tongue visualization for specified speech task.,SIGGRAPH
+Smoother subsurface scattering.,SIGGRAPH
+Core-Stateless Guaranteed Rate Scheduling Algorithms.,INFOCOM
+A Novel Ray-space based Color Correction Algorithm for Multi-view Video.,ISCAS
+Visualizing tags over time.,WWW
+Driver's drowsiness estimation by combining EEG signal analysis and ICA-based fuzzy neural networks.,ISCAS
+Towards a programming language for services computing.,WWW
+Practical routing-layer support for scalable multihoming.,INFOCOM
+MRsionCase: a glasses-free mixed reality showcase for surrounding multiple viewers.,SIGGRAPH
+An adaptive maximum power point tracker for maximising solar cell efficiency in wireless sensor nodes.,ISCAS
+An All-digital Skew-adaptive Clock Scheduling Algorithm for Heterogeneous Multiprocessor Systems on Chips (MPSoCs).,ISCAS
+"Interactive lighting of effects using point clouds in ""Bolt"".",SIGGRAPH
+Keep your friends close: Incorporating trust into social network-based Sybil defenses.,INFOCOM
+A Database Index to Large Biological Sequences.,VLDB
+Csurf: a context-driven non-visual web-browser.,WWW
+Rejecting the attack: Source authentication for Wi-Fi management frames using CSI Information.,INFOCOM
+Computer-assisted animation of line and paint in Disney's <i>Paperman</i>.,SIGGRAPH
+QoS Routing with Performance-Dependent Costs.,INFOCOM
+A Concurrent Database Manipulation Problem: Binary Search Trees (Abstract).,VLDB
+A reconfigurable MAC architecture implemented with mixed-Vt standard cell library.,ISCAS
+MEMS automotive collision avoidence radar beamformer.,ISCAS
+Execution time comparison of lifting-based 2D wavelet transforms implementations on a VLIW DSP.,ISCAS
+SPARQL basic graph pattern optimization using selectivity estimation.,WWW
+A wide-tuning quasi-type-I PLL with voltage-mode frequency acquisition aid.,ISCAS
+Animating art history: building a bridge between disciplines.,SIGGRAPH
+V-buffer: visible volume rendering.,SIGGRAPH
+The Magic of Duplicates and Aggregates.,VLDB
+Personalized pocket directories for mobile devices.,WWW
+Record Subtype Facilities in Database Systems.,VLDB
+Illumination in diverse codimensions.,SIGGRAPH
+Joint optimal scheduling and routing for maximum network throughput.,INFOCOM
+A CMOS high IIP2 mixer for multi-standard receivers.,ISCAS
+Partitioning and ordering large radiosity computations.,SIGGRAPH
+Generalized arbitrary resizing for video transcoding.,ISCAS
+On the impact of global information on diffusion of innovations over social networks.,INFOCOM
+Analysis for Signal and Power Integrity Using the Multilayered Finite Difference Method.,ISCAS
+Probability Distribution of Blackouts in Complex Power Networks.,ISCAS
+Write-Optimized B-Trees.,VLDB
+Cross-Regulation-Suppression control scheme for CCM Single-Inductor-Dual-Output buck converter with ordered-power-distributive control.,ISCAS
+A New 10 Gbps Traffic Management algorithm for High-speed Networks.,ISCAS
+Bifurcations and chaos in electrostatic vibration energy harvesters.,ISCAS
+A proposal of a new blind equalizer using output signals of decision device.,ISCAS
+Distributed video coding using wavelet.,ISCAS
+Using eye tracking to analyze stereoscopic filmmaking.,SIGGRAPH
+Porqpine: A Distributed and Collaborative Search Engine.,WWW
+A time-domain gradient-detection architecture for VLSI analog motion sensors.,ISCAS
+High dynamic range imaging using coded electronic shutter.,SIGGRAPH
+Automated semantic web services orchestration via concept covering.,WWW
+Incremental Maintenance for Non-Distributive Aggregate Functions.,VLDB
+A simple modeling of the early voltage of MOSFETs in weak and moderate inversion.,ISCAS
+Towards a Common Infrastructure to Support Heterogeneous Learning Experiences.,WWW
+Plurality: a context-aware personalized tagging system.,WWW
+Realistic and Efficient Multi-Channel Communications in Wireless Sensor Networks.,INFOCOM
+Localization in 3D surface sensor networks: Challenges and solutions.,INFOCOM
+SAT-based ATPG for Path Delay Faults in Sequential Circuits.,ISCAS
+Spectrally optimal sampling for distribution ray tracing.,SIGGRAPH
+Cloudy: A Modular Cloud Storage System.,VLDB
+Design of OOK system for wireless capsule endoscopy.,ISCAS
+Gesture-world technology: 3D hand pose estimation system for unspecified users using a compact high-speed camera.,SIGGRAPH
+Generalizations of Oja's Learning Rule to Non-Symmetric Matrices.,ISCAS
+Content-aware caching and traffic management in content distribution networks.,INFOCOM
+FALCON: Feedback Adaptive Loop for Content-Based Retrieval.,VLDB
+Image based flow visualization.,SIGGRAPH
+Energy-efficient collaborative sensing with mobile phones.,INFOCOM
+What is the importance of selecting features for non-technical losses identification?,ISCAS
+Predictions and Challenges for Database Systems in the Year 2000.,VLDB
+Coordination in network security games.,INFOCOM
+Enabling entity-based aggregators for web 2.0 data.,WWW
+Energy function based neural networks UPFC for transient stability enhancement of network-preserving power systems.,ISCAS
+Real-time simulation in the real world (panel session).,SIGGRAPH
+Social search and discovery using a unified approach.,WWW
+Run-Time Programming of Analog Circuits Using Floating-Gate Transistors.,ISCAS
+User Interaction Experience for Semantic Web Information.,WWW
+A versatile I/O with robust impedance calibration for various memory interfaces.,ISCAS
+The Integrated Microbial Genomes (IMG) System: A Case Study in Biological Data Management.,VLDB
+The Theory of Probabilistic Databases.,VLDB
+Design and optimization of two motion detection circuits for video monitoring system.,ISCAS
+Realistic and interactive image-based rendering of ancient chinese artifacts using a multiple camera array.,ISCAS
+Recovery and Coherency-Control Protocols for Fast Intersystem Page Transfer and Fine-Granularity Locking in a Shared Disks Transaction Environment.,VLDB
+The V*-Diagram: a query-dependent approach to moving KNN queries.,VLDB
+Digital RF Processing Techniques for Device Mismatch Tolerant Transmitters in Nanometer-Scale CMOS.,ISCAS
+Cooperative Network Coding-Aware Routing for Multi-Rate Wireless Networks.,INFOCOM
+A logical framework for temporal deductive databases.,VLDB
+Manage and Query Generic Moving Objects in SECONDO.,VLDB
+How to reach 100% coding efficiency in multilevel burst-mode RF transmitters.,ISCAS
+Fast Reconfiguration Experiments of an Optically Differential Reconfigurable Gate Array with Nine Configuration Contexts.,ISCAS
+Towards a comprehensive and systematic classification of hardware Trojans.,ISCAS
+An inductively tuned CMOS astable multivibrator.,ISCAS
+"dRig: an artist-friendly, object-oriented approach to rig building.",SIGGRAPH
+The web beyond popularity: a really simple system for web scale RSS.,WWW
+A CMOS linear voltage/current dual-mode imager.,ISCAS
+Model and Architecture of a Timing Service for Adaptive Policy-Based Management Systems.,INFOCOM
+Frequency Response Masking based Reconfigurable Channel Filters for Software Radio Receivers.,ISCAS
+Partitioning and synthesis for hybrid architecture simulators.,ISCAS
+A parallel search algorithm for CLNS addition optimization.,ISCAS
+Instrumenting a logic programming language to gather provenance from an information extraction application.,WWW
+SMOOTH - A Distributed Multimedia Database System.,VLDB
+Loop mitigation in bloom filter based multicast: A destination-oriented approach.,INFOCOM
+Influence of external input on Oscillatory Cellular Nonlinear Networks dynamics.,ISCAS
+Efficient design of sparse FIR filters in WLS sense.,ISCAS
+A metro map metaphor for guided tours on the Web: the Webvise guided tour system.,WWW
+GPX: Interactive Mining of Gene Expression Data.,VLDB
+"Video sharing propagation in social networks: Measurement, modeling, and analysis.",INFOCOM
+Variable fractional delay FIR filters with sparse coefficients.,ISCAS
+Hexahedral Mesh Re-parameterization from Aligned Base Domains,SIGGRAPH
+The largest scholarly semantic network...ever.,WWW
+iPvlc: pixel-level visible light communication for smart mobile devices.,SIGGRAPH
+New FPN correction method for PD-storage dual-capture CMOS image sensor using a nonfully depleted pinned photodiode.,ISCAS
+Dissemination of Models over Time-Varying Data.,VLDB
+Application of two-layered tabu search to optimal allocation of UPFC for maximizing transmission capability.,ISCAS
+Enhancing Traffic Sampling scope and efficiency.,INFOCOM
+Low phase noise on-chip oscillator for implantable biomedical applications.,ISCAS
+CodePipe: An opportunistic feeding and routing protocol for reliable multicast with pipelined network coding.,INFOCOM
+On Hybrid Collision Control for IEEE 802.11 Ad-Hoc Networks.,INFOCOM
+Challenges and recent advances in IR-UWB system design.,ISCAS
+Shape transformation for polyhedral objects.,SIGGRAPH
+A flexible generative model for preference aggregation.,WWW
+Characterizing geospatial dynamics of application usage in a 3G cellular data network.,INFOCOM
+Noise Reduction System Based on LPEF and System Identification with Variable Step Size.,ISCAS
+A full-custom design of AES SubByte module with signal independent power consumption.,ISCAS
+A time-efficient information collection protocol for large-scale RFID systems.,INFOCOM
+2-MITE Product-of-Power-Law Networks.,ISCAS
+Filtering with Approximate Predicates.,VLDB
+Estimating the prevalence of deception in online review communities.,WWW
+Bounding the power rate function of wireless ad hoc networks.,INFOCOM
+Data Broadcasting and Seamless Channel Transition for Highly-Demanded Videos.,INFOCOM
+MMSE-based design of scaled and offset BP-based decoding algorithms on the fast Rayleigh fading channel.,ISCAS
+News in the age of the web.,WWW
+Polygon-assisted JPEG and MPEG compression of synthetic images.,SIGGRAPH
+Unsupervised query segmentation using click data: preliminary results.,WWW
+Modeling and understanding TCP incast in data center networks.,INFOCOM
+A Low Jitter CMOS PLL Clock Synthesizer with 20-400 MHz Locking Range.,ISCAS
+BSSRDF importance sampling.,SIGGRAPH
+Extraction of robust visual phrases using graph mining for image retrieval.,ISCAS
+A Singlehop Collaborative Feedback Primitive for Wireless Sensor Networks.,INFOCOM
+Highly parallel image coding for many cores.,ISCAS
+Protocol-level performance analysis for anti-collision protocols in RFID systems.,ISCAS
+Distance Indexing on Road Networks.,VLDB
+Reconfigurable cell array for concurrent support of multiple radio standards by flexible mapping.,ISCAS
+Creating Competitive Products.,VLDB
+Sensory design for virtual environments.,SIGGRAPH
+Optimal Bandwidth Reservation in Hose-Model VPNs with Multi-Path Routing.,INFOCOM
+Optimal Waveband Switching in Optical Ring Networks.,INFOCOM
+Exploiting channel memory for joint estimation and scheduling in downlink networks.,INFOCOM
+Multiuser detection based on Grover's algorithm.,ISCAS
+Impact of File Arrivals and Departures on Buffer Sizing in Core Routers.,INFOCOM
+Towards a theory model for product search.,WWW
+Fourier series analysis of the nonlinearities in analog closed-loop PWM class D amplifiers.,ISCAS
+Data fusion - Resolving Data Conflicts for Integration.,VLDB
+Argus: End-to-end service anomaly detection and localization from an ISP's point of view.,INFOCOM
+Signal modulus design for blind source separation via algebraic known modulus algorithm: A perturbation perspective.,ISCAS
+Small-World File-Sharing Communities.,INFOCOM
+Local Disk Caching for Client-Server Database Systems.,VLDB
+A novel polynomial selection scheme for low-complexity chase algebraic soft-decision reed-solomon decoding.,ISCAS
+Autonomous resource provisioning for multi-service web applications.,WWW
+An improved soft BCH decoder with one extra error compensation.,ISCAS
+Routing in Overlay Multicast Networks.,INFOCOM
+A Ku-band down-converter with perfect differential PLL in 0.18um CMOS.,ISCAS
+The Design of Symmetric Square-Root Pulse-Shaping Filters for Transmitters and Receivers.,ISCAS
+Design of concurrent multi-band matching networks.,ISCAS
+Just the right amount: extracting modules from ontologies.,WWW
+Distributed Querying of Internet Distance Information.,INFOCOM
+Non-causal error control for wireless video streaming with noncoherent signaling.,ISCAS
+Steel life.,SIGGRAPH
+A simulation of pearl optical phenomena for cosmetic preproduction.,SIGGRAPH
+"The gRNA: A Highly Programmable Infrastructure for Prototyping, Developing and Deploying Genomics-Centric Applications.",VLDB
+Foundations of Uncertain-Data Integration.,VLDB
+Progressive lossless compression of arbitrary simplicial complexes.,SIGGRAPH
+Potter's Wheel: An Interactive Data Cleaning System.,VLDB
+Revisiting the Absolutely Minimal Realization for Two-dimensional Digital Filters.,ISCAS
+Automated synthesis of executable web service compositions from BPEL4WS processes.,WWW
+Online Dynamic Reordering for Interactive Data Processing.,VLDB
+An Efficient Implementation of a Relational Data Base.,VLDB
+A Buyers Integration Support System based on Users' Multi Attribute Utilities for Internet Group Buying.,WWW
+Making use of social media data in public health.,WWW
+Designing efficient DSP datapaths through compiler-in-the-loop exploration methodology.,ISCAS
+On Integrating Fluid Models with Packet Simulation.,INFOCOM
+Data versioning techniques for internet transaction management.,WWW
+Tapered-VTH CMOS buffer design for improved energy efficiency in deep nanometer technology.,ISCAS
+Distributed Power Control For Cellular Networks In the Presence of Rayleigh Fading Channel.,INFOCOM
+Autonomous lighting agents in global illumination.,SIGGRAPH
+Searching Large Lexicons for Partially Specified Terms using Compressed Inverted Files.,VLDB
+The ScratchPad: sensemaking support for the web.,WWW
+Accurate web recommendations based on profile-specific url-predictor neural networks.,WWW
+Tree Pattern Aggregation for Scalable XML Data Dissemination.,VLDB
+Towards a Deeper Understanding of Link Restoration Algorithms for Mesh Networks.,INFOCOM
+An eye detection technique for clock and data recovery applications.,ISCAS
+Comparison of time and frequency domain interpolation implementations for MB-OFDM UWB transmitters.,ISCAS
+Tuning parameters of the expected reciprocal rank.,WWW
+"Prevention of Deadlocks and Livelocks in Lossless, Backpressured Packet Networks.",INFOCOM
+Stable but responsive cloth.,SIGGRAPH
+A service creation environment based on end to end composition of Web services.,WWW
+A pMOS-based double-ladder integrated charge pump for standard process.,ISCAS
+An alias-locked loop frequency synthesis architecture.,ISCAS
+"Industrial Panel on Data Warehousing Technologies: Experiences, Challenges, and Directions.",VLDB
+The SAGE graphics architecture.,SIGGRAPH
+Temporal Management of RFID Data.,VLDB
+A new four-modulus RNS to binary converter.,ISCAS
+VoteTrust: Leveraging friend invitation graph to defend against social network Sybils.,INFOCOM
+Fast computation of shadow boundaries using spatial coherence and backprojections.,SIGGRAPH
+A Converter with Fixed Switching Frequency Adaptive Multi-Mode Control Scheme.,ISCAS
+Quality of Field Reconstruction in Sensor Networks.,INFOCOM
+"Interactions, Competition and Innovation in a Service-Oriented Internet: An Economic Model.",INFOCOM
+An asynchronous spike event coding scheme for programmable analog arrays.,ISCAS
+CerFix: A System for Cleaning Data with Certain Fixes.,VLDB
+Optimization for packet routing using chaotic dynamics.,ISCAS
+Reducing spurious PLL tones in spectrum sensing architectures.,ISCAS
+A piezoelectric actuator driver circuit for automatic focusing of mobile phone cameras.,ISCAS
+"Set Containment Joins: The Good, The Bad and The Ugly.",VLDB
+PixelFlow: high-speed rendering using image composition.,SIGGRAPH
+Thermal aware clock synthesis considering stochastic variation and correlations.,ISCAS
+Rewriting XPath Queries Using Materialized Views.,VLDB
+Effective multi-standard macroblock prediction VLSI design for reconfigurable multimedia systems.,ISCAS
+Low-voltage CMOS syllabic-companding log domain filter.,ISCAS
+The Unified Logging Infrastructure for Data Analytics at Twitter.,VLDB
+The Case for Non-Cooperative Multihoming of Users to Access Points in IEEE 802.11 WLANs.,INFOCOM
+P<sup>2</sup>E-DWT: A parallel and pipelined efficient VLSI architecture of 2-D Discrete Wavelet Transform.,ISCAS
+ZF-DFE transceiver for time-varying MIMO channels with channel-independent temporal precoder.,ISCAS
+Record Linkage with Uniqueness Constraints and Erroneous Values.,VLDB
+Socially-Aware Network Design Games.,INFOCOM
+UWB LNAs for Ground Penetrating Radar.,ISCAS
+Analysis of a Packet Switch with Memories Running at Slower than the Line Rate.,INFOCOM
+Design and modeling of on-chip monolithic transformers with patterned ground shield.,ISCAS
+A dynamic latched comparator for low supply voltages down to 0.45 V in 65-nm CMOS.,ISCAS
+Texture synthesis over arbitrary manifold surfaces.,SIGGRAPH
+Generic sensing hardware and real-time reconstruction for structured analog signals.,ISCAS
+"Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases.",VLDB
+The Design of GridDB: A Data-Centric Overlay for the Scientific Grid.,VLDB
+An Experiment in Dedicated Data Management.,VLDB
+Multi-strategy object tracking in complex situation for video surveillance.,ISCAS
+Acquisition of large-scale surface light fields.,SIGGRAPH
+Towards a highly-scalable and effective metasearch engine.,WWW
+A Wide Dynamic Range High Linearity In-pixel Data Acquisition Front-end for Computed Tomography.,ISCAS
+A Performance Study of Workfile Disk Management for Concurrent Mergesorts in a Multiprocessor Database System.,VLDB
+Warmth through the night.,SIGGRAPH
+Fighting the bufferbloat: On the coexistence of AQM and low priority congestion control.,INFOCOM
+Extracting Large-Scale Knowledge Bases from the Web.,VLDB
+TELESAR V: TELExistence surrogate anthropomorphic robot.,SIGGRAPH
+OntoWiki mobile: knowledge management in your pocket.,WWW
+Fine-grained privilege separation for web applications.,WWW
+Optimality and Scalability in Lattice Histogram Construction.,VLDB
+Detection of on-chip temperature gradient using a 1.5V low power CMOS temperature sensor.,ISCAS
+Inspector Joins.,VLDB
+The utility of tweeted URLs for web search.,WWW
+Many-to-Many Communication: A New Approach for Collaboration in MANETs.,INFOCOM
+Feature-based cellular texturing for architectural models.,SIGGRAPH
+Massive Stochastic Testing of SQL.,VLDB
+"Artificial fishes: physics, locomotion, perception, behavior.",SIGGRAPH
+Smoothing polyhedra using implicit algebraic splines.,SIGGRAPH
+An Evaluation on Using Preference Clustering in Large-Scale Multicast Applications.,INFOCOM
+"Optimization method for the joint allocation of modulation schemes, coding rates, resource blocks and power in self-organizing LTE networks.",INFOCOM
+CASIS: a system for concept-aware social image search.,WWW
+Semantic similarity between search engine queries using temporal correlation.,WWW
+An FPGA-based point target detection system using morphological clutter elimination.,ISCAS
+Why is 3-D interaction so hard and what can we really do about it?,SIGGRAPH
+A high performance pseudo-multi-core ECC processor over GF(2<sup>163</sup>).,ISCAS
+Locating sensors in the forest: A case study in GreenOrbs.,INFOCOM
+Flash finally hits the big screen.,SIGGRAPH
+SHARC: Framework for Quality-Conscious Web Archiving.,VLDB
+"Pricing, Competition, and Routing for Selfish and Strategic Nodes in Multi-Hop Relay Networks.",INFOCOM
+An Adaptive Hash Join Algorithm for Multiuser Environments.,VLDB
+Upward Max Min Fairness.,INFOCOM
+Channel assignment in dense MC-MR wireless networks: Scaling laws and algorithms.,INFOCOM
+Creating a billion-scale searchable web archive.,WWW
+Hyperqueries: Dynamic Distributed Query Processing on the Internet.,VLDB
+WIC: A General-Purpose Algorithm for Monitoring Web Information Sources.,VLDB
+Stereoscopic learning for disparity estimation.,ISCAS
+Lexicographically Optimal Balanced Networks.,INFOCOM
+A multiband concurrent sampling based RF front end for biotelemetry applications.,ISCAS
+Multi layer based rate control algorithm for HEVC.,ISCAS
+Face gender recognition with halftoning-based adaboost classifiers.,ISCAS
+Real time design and animation of fractal plants and trees.,SIGGRAPH
+idMesh: graph-based disambiguation of linked data.,WWW
+Investigation of partial query proximity in web search.,WWW
+Empirical Comparison of Database Concurrency Schemes.,VLDB
+Memory efficient layered decoder design with early termination for LDPC codes.,ISCAS
+Video decoder embedded with temporal LMMSE denoising filter.,ISCAS
+Experimental study of leakage-delay trade-off in Germanium pMOSFETs for logic circuits.,ISCAS
+A demo search engine for products.,WWW
+Throughput Analysis of Multiple Access Relay Channel under Collision Model.,INFOCOM
+PSRR of bridge-tied load PWM Class D Amps.,ISCAS
+The synthesis of cloth objects.,SIGGRAPH
+Security using Shannon-Fano-Elias Codes.,ISCAS
+Staying FIT: Efficient Load Shedding Techniques for Distributed Stream Processing.,VLDB
+A low-power CMOS Gm-C filter for wireless receiver applications with on-chip automatic tuning system.,ISCAS
+Flexible integer DCT architectures for HEVC.,ISCAS
+Uncovering locally characterizing regions within geotagged data.,WWW
+Datagram Routing Algorithm for LEO Satellite Networks.,INFOCOM
+XML Full-Text Search: Challenges and Opportunities.,VLDB
+Local Interpolation Filter Estimation for Fractional-pel Displacement Vector in Video Coding.,ISCAS
+RSS-Ratio for enhancing performance of RSS-based applications.,INFOCOM
+Similarity Join Size Estimation using Locality Sensitive Hashing.,VLDB
+Automatic web image selection with a probabilistic latent topic model.,WWW
+SPRING: A Strategy-proof and Privacy preserving spectrum auction mechanism.,INFOCOM
+Botnet detection revisited: Theory and practice of finding malicious P2P networks via Internet connection graphs.,INFOCOM
+Scheduling in Mobile Ad Hoc Networks with Topology and Channel-State Uncertainty.,INFOCOM
+Low-Complexity Distributed Scheduling Algorithms for Wireless Networks.,INFOCOM
+OLTP-Bench: An Extensible Testbed for Benchmarking Relational Databases.,VLDB
+Releasing search queries and clicks privately.,WWW
+Unconstrained regularized &#8467;p-norm based algorithm for the reconstruction of sparse signals.,ISCAS
+The Kraft's Inequality of Scheduling for Packet-Switched Clos Networks.,INFOCOM
+Architecture of the SOFIS Data Base Management System.,VLDB
+Scaling Queries over Big RDF Graphs with Semantic Hash Partitioning.,VLDB
+Proportional Bandwidth Allocation in DiffServ Networks.,INFOCOM
+Generating diverse and representative image search results for landmarks.,WWW
+Optimizing Energy-Latency Trade-Off in Sensor Networks with Controlled Mobility.,INFOCOM
+EIOP: an e-commerce interoperability platform.,WWW
+Optimizing Multi-Feature Queries for Image Databases.,VLDB
+Scalable querying services over fuzzy ontologies.,WWW
+Establishing Persistent Identity using the Handle System.,WWW
+Superpipelined reconfigurable hardware for DSP.,ISCAS
+HISA: A Query System Bridging The Semantic Gap For Large Image Databases.,VLDB
+Modeling orientation selectivity using a neuromorphic multi-chip system.,ISCAS
+Providing Throughput Differentiation for TCP Flows Using Adaptive TwoColor Marking and Multi-Level AQM.,INFOCOM
+Soft error tolerant latch design with low cost for nanoelectronic systems.,ISCAS
+Feature-based image metamorphosis.,SIGGRAPH
+A dual-mode neural stimulator capable of delivering constant current in current-mode and high stimulus charge in semi-voltage-mode.,ISCAS
+Battery-Aware Variable Voltage Scheduling on Real-Time Multiprocessor Platforms.,ISCAS
+Simple circuit-based solution to problem of residential load participation in demand response.,ISCAS
+Distributed large-scale natural graph factorization.,WWW
+Designing collaborative games on handheld computers.,SIGGRAPH
+Shading bicubic patches.,SIGGRAPH
+Issues in the Design and Simulation of a MEMS VCO based Phase-Locked Loop.,ISCAS
+RaSMaLai: A Randomized Switching algorithm for Maximizing Lifetime in tree-based wireless sensor networks.,INFOCOM
+SNR measurement based on linearity test for ADC BIST.,ISCAS
+A Tree-structured Non-uniform Filter Bank for Multi-standard Wireless Receivers.,ISCAS
+A Non-uniform Resolution Step GHz 7-bit Flash A/D Converter for Wideband OFDM Signal Conversion.,ISCAS
+An efficient mechanism of TCP-Vegas on mobile IP networks.,INFOCOM
+SearchMobil: Web Viewing and Search for Mobile Devices.,WWW
+Reduced Complexity Space-Time-Frequency Model for Multi-Channel EEG and Its Applications.,ISCAS
+Semantic api matching for automatic service composition.,WWW
+Check-Repeat: A new method of measuring DNSSEC validating resolvers.,INFOCOM
+How do Superpeer Networks Emerge?,INFOCOM
+On anonymizing query logs via token-based hashing.,WWW
+A channel estimation scheme for Chinese DTTB system combating long echo and high doppler shift.,ISCAS
+Perceptual-based coding mode decision.,ISCAS
+"Rapid, stable fluid dynamics for computer graphics.",SIGGRAPH
+Impact of ad impressions on dynamic commercial actions: value attribution in marketing campaigns.,WWW
+Massively Parallel Data Analysis with PACTs on Nephele.,VLDB
+Exploration in web science: instruments for web observatories.,WWW
+Definition and Evaluation of Access Rules in Data Management Systems.,VLDB
+Scalable k-nearest neighbor graph construction based on greedy filtering.,WWW
+A Generic solution for Warehousing Business Process Data.,VLDB
+"Rule-based crowds: generation, animation, cloth and rendering of 15.000 unique human characters.",SIGGRAPH
+Distributed Construction of Connected Dominating Set in Wireless Ad Hoc Networks.,INFOCOM
+Efficient evaluation of generalized path pattern queries on XML data.,WWW
+Transistor-level programmable MOS analog IC with body biasing.,ISCAS
+Single Miller compensation using inverting current buffer for multi-stage amplifiers.,ISCAS
+Solid texturing of complex surfaces.,SIGGRAPH
+Querying XML Views of Relational Data.,VLDB
+Sorted QR decomposition for high-speed MMSE MIMO detection based wireless communication systems.,ISCAS
+A 2.4 GHz reference-less wireless receiver for 1Mbps QPSK demodulation.,ISCAS
+Automatic Profile Generation in eRACE.,WWW
+Interactive texture mapping.,SIGGRAPH
+Efficient mining of frequent sequence generators.,WWW
+Using Trees to Depict a Forest.,VLDB
+An Analysis of Structured Data on the Web.,VLDB
+FuwaFuwa: detecting shape deformation of soft objects using directional photoreflectivity measurement.,SIGGRAPH
+Wrinkle generation model for 3D facial expression.,SIGGRAPH
+Optimal signal discrimination in a Low signal-to-noise ratio environment.,ISCAS
+Normalization and Optimization of Schema Mappings.,VLDB
+MemoIcon: using everyday objects as physical icons.,SIGGRAPH
+ILM's multitrack: a new visual tracking framework for high-end VFX production.,SIGGRAPH
+A multi-channel neural stimulator with resonance compensated inductive receiver and closed-loop smart power management.,ISCAS
+Challenges and techniques for effective and efficient similarity search in large video databases.,VLDB
+Image convolution using a probabilistic mapper on USB-AER board.,ISCAS
+Comparative evaluation of javascript frameworks.,WWW
+Locating Data Sources in Large Distributed Systems.,VLDB
+Frame-level data reuse for motion-compensated temporal filtering.,ISCAS
+Roesser model realization of MIMO n-D systems by elementary operations.,ISCAS
+Time-sliding suboptimal regulation of bilinear interconnected systems.,ISCAS
+FiConn: Using Backup Port for Server Interconnection in Data Centers.,INFOCOM
+New Light-Weight Crypto Algorithms for RFID.,ISCAS
+RankMass Crawler: A Crawler with High PageRank Coverage Guarantee.,VLDB
+Separation of weak reflection from a single superimposed image using gradient profile sharpness.,ISCAS
+WorldSeed.,SIGGRAPH
+An education method for VR content creation using groupwork.,SIGGRAPH
+SAR ADC using single-capacitor pulse width to analog converter based DAC.,ISCAS
+Cognitive Mobile Virtual Network Operator: Investment and Pricing with Supply Uncertainty.,INFOCOM
+Mining Frequent Closed Cubes in 3D Datasets.,VLDB
+Predicting clicks: estimating the click-through rate for new ads.,WWW
+High-speed tournament givens rotation-based QR Decomposition Architecture for MIMO Receiver.,ISCAS
+Live Demonstration: Computing Spike-based Convolutions on GPUs.,ISCAS
+An e-market framework for informed trading.,WWW
+The V2 Temporal Document Database System.,WWW
+Supporting Lists in a Data Model (A Timely Approach).,VLDB
+QR-code calibration for mobile augmented reality applications: linking a unique physical location to the digital world.,SIGGRAPH
+Fast bilateral filtering for the display of high-dynamic-range images.,SIGGRAPH
+The journey of the Cystic Fibrosis gene.,SIGGRAPH
+Voltage stability and voltage recovery: effects of electric load dynamics.,ISCAS
+Retargeting Motion to New Characters.,SIGGRAPH
+Rule Ordering in Bottom-Up Fixpoint Evaluation of Logic Programs.,VLDB
+Non-iterative high speed division computation based on Mitchell logarithmic method.,ISCAS
+Integrating Packet FEC into Adaptive Voice Playout Buffer Algorithms on the Internet.,INFOCOM
+How opinions are received by online communities: a case study on amazon.com helpfulness votes.,WWW
+Taking the Skeletons Out of the Closets: A Simple and Efficient Topology Discovery Scheme for Large Ethernet LANs.,INFOCOM
+A Multi-hysteresis VCCS and its Application to Multi-scroll Chaotic Oscillators.,ISCAS
+Textual and contextual patterns for sentiment analysis over microblogs.,WWW
+Synchronization of the Kuramoto model with multi-scale-free property.,ISCAS
+YouTube around the world: geographic popularity of videos.,WWW
+Clustering user queries of a search engine.,WWW
+"A dual-mode, low-power and low-noise 0.18&micro;m CMOS front-end for optical biosensors.",ISCAS
+Level Converting Scan Flip-flops.,ISCAS
+Volumetric shadow mapping.,SIGGRAPH
+Delay Analysis for Multi-Hop Wireless Networks.,INFOCOM
+Truthful incentive mechanisms for k-anonymity location privacy.,INFOCOM
+The GMAP: A Versatile Tool for Physical Data Independence.,VLDB
+Routing Dependable Connections with Specified Failure Restoration Guarantees in WDM Networks.,INFOCOM
+Virtual MISO triggers in Wi-Fi-like networks.,INFOCOM
+Optimization of clock-gating structures for low-leakage high-performance applications.,ISCAS
+Video suggestion and discovery for youtube: taking random walks through the view graph.,WWW
+All our messages are belong to us: usable confidentiality in social networks.,WWW
+Impromptu Measurement Infrastructures using RTP.,INFOCOM
+Analysis of an SOC Architecture for MPEG Reconfigurable Video Coding Framework.,ISCAS
+An Adaptive CMOS-based PG-ISFET for pH Sensing.,ISCAS
+B+-tree Index Optimization by Exploiting Internal Parallelism of Flash-based Solid State Drives.,VLDB
+An effective hop-by-hop Interest shaping mechanism for CCN communications.,INFOCOM
+Automatic construction of a context-aware sentiment lexicon: an optimization approach.,WWW
+Mining anchor text for query refinement.,WWW
+The Generalized MDL Approach for Summarization.,VLDB
+Improving Performance in Replicated Databases through Relaxed Coherency.,VLDB
+Pseudo-differential zero-crossing-based circuit with differential error suppression.,ISCAS
+"Low frequency, current mode programmable KHN filters using large-valued active resistors.",ISCAS
+A framework for determining necessary query set sizes to evaluate web search effectiveness.,WWW
+A genealogy of information spreading on microblogs: A Galton-Watson-based explicative model.,INFOCOM
+Bi-Criteria Approximation Algorithms for Power-Efficient and Low-Interference Topology Control in Unreliable Ad Hoc Networks.,INFOCOM
+Minerva: Learning to Infer Network Path Properties.,INFOCOM
+Fixed and market pricing for cloud services.,INFOCOM
+Articulated body deformation from range scan data.,SIGGRAPH
+Staging transformations for multimodal web interaction management.,WWW
+Fill-in-the-Form Programming.,VLDB
+Toward simple criteria to establish capacity scaling laws for wireless networks.,INFOCOM
+The BEST challenge for next-generation Ethernet services.,INFOCOM
+Ego networks in Twitter: An experimental analysis.,INFOCOM
+Face clustering in videos using constraint propagation.,ISCAS
+An Efficient Algorithm for Mining Association Rules in Large Databases.,VLDB
+Minimizing End-to-End Delay: A Novel Routing Metric for Multi-Radio Wireless Mesh Networks.,INFOCOM
+A Cartesian Feedback Feedforward Transmitter.,ISCAS
+A DBMS for the U.S. Bureo of the Census.,VLDB
+MV3R-Tree: A Spatio-Temporal Access Method for Timestamp and Interval Queries.,VLDB
+Normal flow measurement visual motion sensor.,ISCAS
+Implementing RenderMan on the Sony PS2.,SIGGRAPH
+Amperometric Readout and Electrode Array Chip for Bioelectrochemical Sensors.,ISCAS
+Display pixel caching.,SIGGRAPH
+Nonlinear Material Design Using Principal Stretches,SIGGRAPH
+Compact Lowpass Ladder Filters using Tapped Coils.,ISCAS
+SUBJECT: A Directory Driven System for Organizing and Accessing Large Statistical Databases,VLDB
+Hardware Organization for Nonnumeric Processing,VLDB
+Surviving a search engine overload.,WWW
+Cascading tree sheets and recombinant HTML: better encapsulation and retargeting of web content.,WWW
+A New Frame Recompression Algorithm Integrated with H.264 Video Compression.,ISCAS
+Access to Objects by Path Expressions and Rules.,VLDB
+A two-view approach to constructing user interfaces.,SIGGRAPH
+Maximizing capacity with power control under physical interference model in duplex mode.,INFOCOM
+C-SPARQL: SPARQL for continuous querying.,WWW
+Design of high-speed clock recovery circuit for burst-mode applications.,ISCAS
+Performance analysis of Coupling Scheduler for MapReduce/Hadoop.,INFOCOM
+Maximizing throughput in wireless networks with finite internal buffers.,INFOCOM
+Integer linear programming method for spatial temporal mapping of the Viterbi decoder.,ISCAS
+Finding relevant patterns in bursty sequences.,VLDB
+Statistical Distortion: Consequences of Data Cleaning.,VLDB
+Tuning Elliptic Filters with a 'Tuning Biquad'.,ISCAS
+Streaming Implementation of the ZLIB Decoder Algorithm on an FPGA.,ISCAS
+A QoS aware multicore hash scheduler for network applications.,INFOCOM
+LNA-antenna codesign for UWB systems.,ISCAS
+Biometric-based two-level secure access control for Implantable Medical Devices during emergencies.,INFOCOM
+Unrolling Cycles to Decide Trigger Termination.,VLDB
+Coding and replication co-design for interactive multiview video streaming.,INFOCOM
+On the Absence of Isolated Nodes in Wireless Ad-Hoc Networks with Unreliable Links - a Curious Gap.,INFOCOM
+Network Performance Anomaly Detection and Localization.,INFOCOM
+Rendering fur with three dimensional textures.,SIGGRAPH
+A 0.4V ultra low-power UWB CMOS LNA employing noise cancellation.,ISCAS
+IP Backbone Design for Multimedia Distribution: Architecture and Performance.,INFOCOM
+Low-voltage SOI CMOS DTMOS/MTCMOS circuit technique for design optimization of low-power SOC applications.,ISCAS
+On Heterogeneous Overlay Construction and Random Node Selection in Unstructured P2P Networks.,INFOCOM
+On the Design of Digital Control for Lab-on-chip Systems.,ISCAS
+Multi-Vth Level Conversion Circuits for Multi-VDD Systems.,ISCAS
+SigMatch: Fast and Scalable Multi-Pattern Matching.,VLDB
+On Channel-Discontinuity-Constraint Routing in Wireless Networks.,INFOCOM
+Using QBF to increase accuracy of SAT-based debugging.,ISCAS
+Software and Data Base Engineering - Towards a Common Design Methodology.,VLDB
+OneClick: A Framework for Measuring Network Quality of Experience.,INFOCOM
+A Wireless IC for Wide-Range Neurochemical Monitoring Using Amperometry and Fast-Scan Cyclic Voltammetry.,ISCAS
+LDPC Decoder Design for IEEE 802.15 Standard.,ISCAS
+Cellular Automata with Large Channel Separations.,ISCAS
+Design of reliable 2&times;VDD and 3&times;VDD series-parallel charge pumps in nanoscale CMOS.,ISCAS
+Scalable and Accurate Identification of AS-level Forwarding Paths.,INFOCOM
+Millimeter Wave WPAN: Cross-Layer Modeling and Multi-Hop Architecture.,INFOCOM
+Omnidirectional stereo surround for panoramic virtual environments.,SIGGRAPH
+Robust movement detection based on a new similarity index for HDR imaging.,SIGGRAPH
+Lightweight Privacy-Preserving Peer-to-Peer Data Integration.,VLDB
+Two-level configuration for FPGA: A new design methodology based on a computing fabric.,ISCAS
+Packet Leashes: A Defense against Wormhole Attacks in Wireless Networks.,INFOCOM
+Attitude sensing system design for wireless Micro-Ball endoscopy.,ISCAS
+An 11 Bit Sub-Ranging SAR ADC with Input Signal Range of Twice Supply Voltage.,ISCAS
+Signing individual fragments of an RDF graph.,WWW
+Understanding spatial relationships in resource usage in cellular data networks.,INFOCOM
+Analysis of digital gain error compensation in continuous-time cascaded sigma-delta modulators.,ISCAS
+Online modeling of proactive moderation system for auction fraud detection.,WWW
+Fractional-Rate FM-to-Digital Delta-Sigma-Converters.,ISCAS
+Query Mesh: Multi-Route Query Processing Technology.,VLDB
+A novel structure for the design of 2-1-1 cascaded continuous time delta sigma modulators.,ISCAS
+Implementing Queries and Updates on Universal Scheme Interfaces.,VLDB
+"1, 000 Tables Inside the From.",VLDB
+Rapid design and prototyping of universal soft demapper.,ISCAS
+Electricity cost efficient workload mapping.,INFOCOM
+Data Models Transformation Method Based on Axiomatic Data Model Extension.,VLDB
+A-ToPSS: A Publish/Subscribe System Supporting Imperfect Information Processing.,VLDB
+A 10-bit 2GHz Current-Steering CMOS D/A Converter.,ISCAS
+"Exploiting the Diversity, Mass and Speed of Territorial Data by TELCO Operator for Better User Services.",VLDB
+Faster accurate reflections throught quadric mirrors.,SIGGRAPH
+Evaluating Multiple Server DBMS in General Purpors Operating System Environments.,VLDB
+An efficient homotopy method that can be easily implemented on SPICE.,ISCAS
+"Flux: lightweight, standards-based Web graphics in XML.",SIGGRAPH
+Table of Contents (pdf).,VLDB
+Visual Property Editing Tools for Web based Virtual Reality.,WWW
+Adder Circuits with Transistors using Independently Controlled Gates.,ISCAS
+Risk-Aware Routing for Optical Transport Networks.,INFOCOM
+Resilient Rights Protection for Sensor Streams.,VLDB
+Applying Database Technology in the ADSM Mass Storage System.,VLDB
+Low-power 6-bit 1-GS/s two-channel pipeline ADC with open-loop amplification using amplifiers with local-feedback.,ISCAS
+Oblivious AQM and Nash Equilibria.,INFOCOM
+SIREN: A Similarity Retrieval Engine for Complex Data.,VLDB
+Design and Performance Tools for Data Base Systems.,VLDB
+Motion tracking of time-varying mesh through surface gradient matching with multi-temporal registration.,SIGGRAPH
+An efficient MFCC extraction method in speech recognition.,ISCAS
+New improved CMOS class AB buffers based on differential flipped voltage followers.,ISCAS
+"Stimulation and recording of neural tissue, closing the loop on the artifact.",ISCAS
+Tailored news in the palm of your hand: a multi-perspective transparent approach to news recommendation.,WWW
+Mutual Dependencies and Some Results on Undecomposable Relations.,VLDB
+Cardinality change-based early detection of large-scale cyber-attacks.,INFOCOM
+A virtual environment and model of the eye for surgical simulation.,SIGGRAPH
+Low-voltage Bluetooth/ZigBee complex filter using current mirrors.,ISCAS
+"Adaptive query processing: Why, How, When, and What Next?",VLDB
+Measurement-Based Editing of Diffuse Albedo with Consistent Interreflections,SIGGRAPH
+A spectrum-sharing rewarding framework for co-channel hybrid access femtocell networks.,INFOCOM
+A framework for the server-side management of conversations with web services.,WWW
+Modeling semantics and structure of discussion threads.,WWW
+Integrating Reliable Memory in Databases.,VLDB
+Worst-Case TCAM Rule Expansion.,INFOCOM
+Semi-blind data-selective algorithms for channel equalization.,ISCAS
+Distributed Privacy Preserving Information Sharing.,VLDB
+Approximate Query Processing: Taming the TeraBytes.,VLDB
+HTML2RSS: automatic generation of RSS feed based on structure analysis of HTML document.,WWW
+StatSnowball: a statistical approach to extracting entity relationships.,WWW
+Transaction Log Based Application Error Recovery and Point In-Time Query.,VLDB
+"TPC-D: The Challenges, Issues and Results.",VLDB
+A Low-power wireless multi-channel surface EMG sensor with simplified ADPCM data compression.,ISCAS
+Global parameterization and quadrilateral meshing of point cloud.,SIGGRAPH
+A low power battery management system for rechargeable wireless implantable electronics.,ISCAS
+Toward Learning Based Web Query Processing.,VLDB
+Transmission schemes for time-varying wireless channels with partial state observations.,INFOCOM
+Simulating Rigid Body Fracture with Surface Meshes,SIGGRAPH
+GOTHIC: glare optimizer tool for high-dynamic-range images and content with implementation in video.,SIGGRAPH
+Logical Design of Deductive Natural Language Consultable Data Bases.,VLDB
+Wireless esophageal catheter dedicated to respiratory diseases diagnostic.,ISCAS
+Automatic Data Fusion with HumMer.,VLDB
+Irradiance rigs.,SIGGRAPH
+Jigsaw image mosaics.,SIGGRAPH
+Leveraging interlingual classification to improve web search.,WWW
+Social Network Extraction of Conference Participants.,WWW
+A multistandard FFT processor for wireless system-on-chip implementations.,ISCAS
+Content-aware click modeling.,WWW
+Fair Routing in Delay Tolerant Networks.,INFOCOM
+Optimal bounds for online page migration with generalized migration costs.,INFOCOM
+Zoom: A multi-resolution tasking framework for crowdsourced geo-spatial sensing.,INFOCOM
+Efficient Resource Allocation with Flexible Channel Cooperation in OFDMA Cognitive Radio Networks.,INFOCOM
+Media Browser: An Example of Metadata-Based Browsing.,WWW
+Post-layout redundant wire insertion for fixing min-delay violations.,ISCAS
+Optimizing RDF(S) queries on cloud platforms.,WWW
+Indexing XML Data Stored in a Relational Database.,VLDB
+Validation of a statistical non-linear model of GaAs HEMT MMIC's by hypothesis testing and principal components analysis.,ISCAS
+A 145&micro;W 8&times;8 parallel multiplier based on optimized bypassing architecture.,ISCAS
+Novel Coils Topology Intended for Biomedical Implants with Multiple Carrier Inductive Link.,ISCAS
+Communication-Efficient Online Detection of Network-Wide Anomalies.,INFOCOM
+Update Semantics for Incomplete Databases.,VLDB
+The cubic interpolated level set method for realistic fluid animation.,SIGGRAPH
+Query segmentation revisited.,WWW
+Improvement of the Mu-law Proportionate NLMS Algorithm.,ISCAS
+An efficient random access inverted index for information retrieval.,WWW
+Losses analysis and low standby losses quasi-resonant flyback converter design.,ISCAS
+Robot rockstars: a mixed-reality game.,SIGGRAPH
+Query Processing in a Relational Database Management System.,VLDB
+Efficient Indexing for Diverse Query Results.,VLDB
+Selectivity Estimation in Extensible Databases - A Neural Network Approach.,VLDB
+A Combined Framework for Grouping and Order Optimization.,VLDB
+Bifurcations in frequency controlled load resonant DC-DC converters.,ISCAS
+A novel hybrid neuro-wavelet system for robust speech recognition.,ISCAS
+Augmented reality disk jockey: AR/DJ.,SIGGRAPH
+Psychological maps 2.0: a web engagement enterprise starting in London.,WWW
+Design for verification for asynchronously communicating Web services.,WWW
+Managing Change in a Computer-Aided Design Database.,VLDB
+The structure of broad topics on the web.,WWW
+Gradient Local Binary Patterns for human detection.,ISCAS
+Distortion calculation of an asynchronous switching xDSL line-driver.,ISCAS
+P2P Authority Analysis for Social Communities.,VLDB
+Efficient decision feedforward equalizer with parallelizable architecture.,ISCAS
+Fast and scalable secret key generation exploiting channel phase randomness in wireless networks.,INFOCOM
+Manipulating Interpolated Data is Easier than You Thought.,VLDB
+LUT-based MPGAs for fast turnaround time conversion flow.,ISCAS
+Improved ultrasound digital beamforming using single-bit sigma-delta modulators with band-pass decimation filters.,ISCAS
+Uncertainty Principle of the Second-order LPFT.,ISCAS
+A ladder network delay model for coupled interconnects.,ISCAS
+Test application time minimization for RAS using basis optimization of column decoder.,ISCAS
+Exact cooperative regenerating codes with minimum-repair-bandwidth for distributed storage.,INFOCOM
+Web customization using behavior-based remote executing agents.,WWW
+Artificial immune system based methods for spam filtering.,ISCAS
+An automatic semantic relationships discovery approach.,WWW
+Clock and data recovery module in 90nm for 10Gbps serial link with -18dB channel attenuation.,ISCAS
+A New Analysis Framework for Discrete Time Queueing Systems with General Stochastic Sources.,INFOCOM
+Architectures and Algorithms for Internet-Scale (P2P) Data Management.,VLDB
+A New Presumed Commit Optimization for Two Phase Commit.,VLDB
+Hash Joins and Hash Teams in Microsoft SQL Server.,VLDB
+Community cores in evolving networks.,WWW
+An Evaluation of Weak State Mechanism Design for Indirection in Dynamic Networks.,INFOCOM
+Approximation Algorithms for Scheduling Real-Time Multicast Flows in Wireless LANs.,INFOCOM
+Joint Effects of Radio Channels and Node Mobility on Link Dynamics in Wireless Networks.,INFOCOM
+Dynamic partial reconfigurable FFT/IFFT pruning for OFDM based Cognitive radio.,ISCAS
+A 10-Bit 200-MS/s digitally-calibrated pipelined ADC using switching opamps.,ISCAS
+A preamplifier for the front-end readout system of particles tracking in secondary electron detectors.,ISCAS
+Query Segmentation for Web Search.,WWW
+Shielding Methodologies in the Presence of Power/Ground Noise.,ISCAS
+A novel feature extraction algorithm for classification of bird flight calls.,ISCAS
+A 2-path bandpass sigma-delta modulator utilizing blue-noise path selection.,ISCAS
+A low power low inaccuracy linearity-compensated temperature sensor for attachable medical devices.,ISCAS
+Factors formatting perceptional impression in 3-D cyber spaces: a cross-cultural study of Korean and American users.,SIGGRAPH
+"A nose-tracked, personal olfactory display.",SIGGRAPH
+Short periodic orbits and topological entropy for the Chua's circuit.,ISCAS
+Session-Based Overload Control in QoS-Aware Web Servers.,INFOCOM
+A VLSI spike-driven dynamic synapse which learns only when necessary.,ISCAS
+An Efficient Filter-based Addressing Protocol for Autoconfiguration of Mobile Ad Hoc Networks.,INFOCOM
+ProTDB: Probabilistic Data in XML.,VLDB
+Two-stage series-based neural network approach to nonlinear independent component analysis.,ISCAS
+A Conceptual Model for Semantic Integrity Checking.,VLDB
+Needed: Distributed Control.,VLDB
+Visualization of historical landscapes in Osaka.,SIGGRAPH
+A Silicon-on-Sapphire Low-Voltage Temperature Sensor for Energy Scavengers.,ISCAS
+WYSIWYG NPR: drawing strokes directly on 3D models.,SIGGRAPH
+An Efficient Hardware Accelerator for Power Grid Simulation.,ISCAS
+A Parallel Strategy for Transitive Closure usind Double Hash-Based Clustering.,VLDB
+Mixed-domain receiver architecture for white space software-defined radio scenarios.,ISCAS
+Noncooperative Load Balancing in the Continuum Limit of a Dense Network.,INFOCOM
+Efficient Evaluation of XQuery over Streaming Data.,VLDB
+Low-complexity Interpolation Architecture for Soft-decision Reed-Solomon Decoding.,ISCAS
+Secure pseudo-random bit sequence generation using coupled linear congruential generators.,ISCAS
+A self-calibrating multi-VCO PLL scheme with leakage and capacitive modulation mitigations.,ISCAS
+Technical challenges in exploiting the web as a business resource.,WWW
+HOMES: A Higher-Order Mapping Evaluation System.,VLDB
+Fine grained content-based adaptation mechanism for providing high end-user quality of experience with adaptive hypermedia systems.,WWW
+Ranking refinement and its application to information retrieval.,WWW
+Compress Compound Images in H.264/MPEG-4 AVC by Fully Exploiting Spatial Correlation.,ISCAS
+Towards Robust Indexing for Ranked Queries.,VLDB
+MCDB-R: Risk Analysis in the Database.,VLDB
+Clock distribution models of 3-D integrated systems.,ISCAS
+Isolating Physical PER for Smart Rate Selection in 802.11.,INFOCOM
+Neuromorphic implementation of active gaze and vergence control.,ISCAS
+Managing Semantic Heterogeneity with Production Rules and Persistent Queues.,VLDB
+A Logic-based Framework for Mobile Intelligent Information Agents.,WWW
+"All-digital frequency and clock synthesis architectures from a signals and systems perspective, current state and future directions.",ISCAS
+A circuit that creates a logarithmic response from an integrating CMOS pixel.,ISCAS
+1.25/2.5-Gb/s burst-mode clock recovery circuit with a novel dual bit-rate structure in 0.18&micro;m CMOS.,ISCAS
+Object shape and reflectance modeling from observation.,SIGGRAPH
+Real-time photo-realistic augmented reality for interior design.,SIGGRAPH
+Dual sphere-unfolding method for single pass omni-directional shadow mapping.,SIGGRAPH
+Early Profile Pruning on XML-aware Publish/Subscribe Systems.,VLDB
+WATCH: summary data in spatial context.,SIGGRAPH
+Maximizing submodular set function with connectivity constraint: Theory and application to networks.,INFOCOM
+"Workshop on online reputation: context, privacy, and reputation management.",WWW
+Improving H.264/AVC video coding with adaptive coefficient suppression.,ISCAS
+Lateral Error Recovery for Application-Level Multicast.,INFOCOM
+Optimal Allocation of Electronic Content.,INFOCOM
+Decoders for low-density parity-check convolutional codes with large memory.,ISCAS
+CoRaS: A multiprocessor key corruption and random round swapping for power analysis side channel attacks: A DES case study.,ISCAS
+A comparison of visual and textual page previews in judging the helpfulness of web pages.,WWW
+A continuum approach to dense wireless networks with cooperation.,INFOCOM
+Distributed optimal contention window control for elastic traffic in wireless LANs.,INFOCOM
+Client-Based Access Control Management for XML documents.,VLDB
+Deterministic DEM DAC Performance Analysis.,ISCAS
+Automatic skill acquisition in Reinforcement Learning using connection graph stability centrality.,ISCAS
+BodyT2: Throughput and time delay performance assurance for heterogeneous BSNs.,INFOCOM
+Adaptive Low/High Voltage Swing CMOS Driver for On-Chip Interconnects.,ISCAS
+Earth's avatar: the Web augmented virtual earth.,SIGGRAPH
+Demand forecast and performance prediction in peer-assisted on-demand streaming systems.,INFOCOM
+Query Processing in Tertiary Memory Databases.,VLDB
+Mesh-star Hybrid NoC Architecture with CDMA Switch.,ISCAS
+An integrated wireless electronic nose system integrating sensing and recognition functions.,ISCAS
+Verifiable private multi-party computation: Ranging and ranking.,INFOCOM
+Peer-to-Peer Sharing of Web Applications.,WWW
+Efficient search in large textual collections with redundancy.,WWW
+Modeling Telephone Call Networks with Group Structure from a Complex Network Perspective.,ISCAS
+A Low Energy FFT/IFFT Processor for Hearing Aids.,ISCAS
+Fluid simulation interaction techniques.,SIGGRAPH
+PW-MAC: An energy-efficient predictive-wakeup MAC protocol for wireless sensor networks.,INFOCOM
+Creation and rendering of realistic trees.,SIGGRAPH
+Augmented participatory design.,SIGGRAPH
+DDoS-Resilient Scheduling to Counter Application Layer Attacks Under Imperfect Detection.,INFOCOM
+A New Adaptive Subpixel-based Downsampling Scheme using Edge Detection.,ISCAS
+Balun LNA with continuously controllable gain and with noise and distortion cancellation.,ISCAS
+Linear sparse array synthesis via convex optimization.,ISCAS
+EMPOWER: A Network Emulator for Wireless and Wireline Networks.,INFOCOM
+An Efficient Cost-Driven Index Selection Tool for Microsoft SQL Server.,VLDB
+Cache Coherency in Oracle Parallel Server.,VLDB
+QoE-aware resource allocation for integrated surveillance system over 4G mobile networks.,ISCAS
+On the Optimality and Interconnection of Valiant Load-Balancing Networks.,INFOCOM
+On the Complexity Reduction of Polyphase Linear Phase FIR Filters with Symmetric Coefficient Implementation.,ISCAS
+A new taxonomy for reconfigurable prefix adders.,ISCAS
+Demand-Oblivious Routing: Distributed vs. Centralized Approaches.,INFOCOM
+SocialFilter: Introducing social trust to collaborative spam mitigation.,INFOCOM
+Multiversion Query Locking.,VLDB
+Knowledge-Based Query Processing.,VLDB
+"Restful web services vs. ""big""' web services: making the right architectural decision.",WWW
+The Double Life of the Transaction Abstraction: Fundamental Principle and Evolving System Concept.,VLDB
+Random-access scheduling with service differentiation in wireless networks.,INFOCOM
+A robust boundary detection algorithm based on connectivity only for 3D wireless sensor networks.,INFOCOM
+Heuristic Algorithms for Joint Configuration of the Optical and Electrical Layer in Multi-Hop Wavelength Routing Networks.,INFOCOM
+A stochastic learning-to-rank algorithm and its application to contextual advertising.,WWW
+Handling Data Skew in Multiprocessor Database Computers Using Partition Tuning.,VLDB
+Using explicit discourse rules to guide video enrichment.,WWW
+The stringed haptic workbench.,SIGGRAPH
+Resiliency-Aware Data Management.,VLDB
+"Modeling inelastic deformation: viscolelasticity, plasticity, fracture.",SIGGRAPH
+Gossiping with Multiple Messages.,INFOCOM
+AuditGuard: a system for database auditing under retention restrictions.,VLDB
+Simplicial interpolation for animating the Hulk.,SIGGRAPH
+"Decentralized, accurate, and low-cost network bandwidth prediction.",INFOCOM
+Optimal Configuration of OSPF Aggregates.,INFOCOM
+A fast polymesh to level set algorithm.,SIGGRAPH
+Search result diversity for informational queries.,WWW
+Hopf-Type Intermediate-Scale Bifurcation in Single-Stage Power-Factor-Correction Power Supplies.,ISCAS
+A Sub-1V Low-Power High-Speed Static Frequency Divider.,ISCAS
+Unified Energy-Efficient Routing for Multi-Hop Wireless Networks.,INFOCOM
+Impact of Control Signal Non-Idealties on Two-Phase Charge Pumps.,ISCAS
+Fast Packet Classification for Two-Dimensional Conflict-Free Filters.,INFOCOM
+File Fragmentation over an Unreliable Channel.,INFOCOM
+Ultra-low power current-based PUF.,ISCAS
+Model-directed web transactions under constrained modalities.,WWW
+An inverse method of characteristics for analyzing circuits with widely separated time-scales.,ISCAS
+"A smooth, fast, accurate representation of reflectance.",SIGGRAPH
+IPAC - An Interactive Approach to Access Control for Semi-structured Data.,VLDB
+Oracle SecureFiles: Prepared for the Digital Deluge.,VLDB
+Trichromatic approximation for computer graphics illumination models.,SIGGRAPH
+Double-via insertion enhanced X-architecture clock routing for reliability.,ISCAS
+Robust Geo-Routing on Embeddings of Dynamic Wireless Networks.,INFOCOM
+An Energy-Scalable Margin Propagation-Based Analog VLSI Support Vector Machine.,ISCAS
+Reactive architecture.,SIGGRAPH
+A 14-b 32MS/s Pipelined ADC with Novel Fast-convergence Comprehensive Background Calibration.,ISCAS
+AMBA AHB bus potocol checker with efficient debugging mechanism.,ISCAS
+A Model of Visual Adaptation for Realistic Image Synthesis.,SIGGRAPH
+On interference alignment for multi-hop MIMO networks.,INFOCOM
+An auto-reconfigurable dual-output SC DC-DC regulator with sub-harmonic fixed on-time control for energy-harvesting applications.,ISCAS
+A Wide Bandwidth Sige Broadband Amplifier for 100 Gb/s Ethernet Applications.,ISCAS
+Interactive control of avatars animated with human motion data.,SIGGRAPH
+Analysis of Blocking Probability in Noise and Crosstalk Impaired All-Optical Networks.,INFOCOM
+Mixed-signal implementation of a nonlinear decoder for delta-sigma encoded stream.,ISCAS
+Addressing the privacy management crisis in online social networks.,WWW
+A fault-aware dynamic routing algorithm for on-chip networks.,ISCAS
+Numerical simulation of fluid flow on complex geometries using the Lattice-Boltzmann method and CUDA-enabled GPUs.,SIGGRAPH
+Passive client-based bandwidth and latency measurements in cellular networks.,INFOCOM
+Data Management on the Spatial Web.,VLDB
+Cooperating with Smartness: Using Heterogeneous Smart Antennas in Ad-Hoc Networks.,INFOCOM
+Avatara: OLAP for Web-scale Analytics Products.,VLDB
+Maintaining source privacy under eavesdropping and node compromise attacks.,INFOCOM
+An enhanced model for searching in semantic portals.,WWW
+Streaming codes for channels with burst and isolated erasures.,INFOCOM
+An Architecture For Integrating Low Complexity and Reconfigurability for Channel filters in Software Defined Radio Receivers.,ISCAS
+Power efficiency calculation of class E amplifier with nonlinear shunt capacitance.,ISCAS
+Foreword from the PC Chairs.,VLDB
+Constructing Efficient Decision Trees by Using Optimized Numeric Association Rules.,VLDB
+Volume and power optimized high-performance system for UAV collision avoidance.,ISCAS
+Robust super-exponential methods for blind deconvolution of MIMO-IIR systems with Gaussian noise.,ISCAS
+An area efficient digital amplitude modulator in 90nm CMOS.,ISCAS
+Shape Segmentation and Applications in Sensor Networks.,INFOCOM
+An adaptation method for FIR pre-emphasis filter on backplane channel.,ISCAS
+"SEDA: a system for search, exploration, discovery, and analysis of XML Data.",VLDB
+Volume-aware extinction mapping.,SIGGRAPH
+Alternate hop-and-wait channel rendezvous method for cognitive radio networks.,INFOCOM
+Research frontiers in virtual reality.,SIGGRAPH
+Employing Natural Language Summarization and Automated Layout for Effective Presentation and Navigation of Information Retrieval Results.,WWW
+Differentiated traffic engineering for QoS provisioning.,INFOCOM
+Tunable QoS-aware network survivability.,INFOCOM
+Generalization of Lambert's reflectance model.,SIGGRAPH
+A isolated bidirectional interleaved flyback converter for battery backup system application.,ISCAS
+Proactive failure detection for WDM carrying IP.,INFOCOM
+Randomized coherent sampling for reducing perceptual rendering error.,SIGGRAPH
+A 1.2V 130&micro;A 10-bit MOS-Only Log-Domain Sigma Delta Modulator.,ISCAS
+Contextual trace-based video recommendations.,WWW
+Large-scale Data Collection: a Coordinated Approach.,INFOCOM
+Automating the design of multi-dimensional clustering tables in relational databases.,VLDB
+Comparison of On-die Global Clock Distribution Methods for Parallel Serial Links.,ISCAS
+Topological and MAI Constraints on the Performance of Wireless CDMA Sensor Networks.,INFOCOM
+Motion Mapping for MPEG-2 to H.264/AVC Transcoding.,ISCAS
+A Novel Fast Algorithm for Speech and Audio Coding.,ISCAS
+Interactive lecturing techniques.,ISCAS
+Screen: bodily interaction with text in immersive VR.,SIGGRAPH
+Personalized recommendation on dynamic content using predictive bilinear models.,WWW
+Algorithms for Mining Distance-Based Outliers in Large Datasets.,VLDB
+Load Balancing in Wireless Sensor Networks using Kirchhoff's Voltage Law.,INFOCOM
+Voltage Elevator using a MEMS Resonator.,ISCAS
+An efficient regular expressions compression algorithm from a new perspective.,INFOCOM
+A Low-noise Monolithic CMOS Bio-potential Detector.,ISCAS
+Asymmetrical query recommendation method based on bipartite network resource allocation.,WWW
+On the nature of revenue-sharing contracts to incentivize spectrum-sharing.,INFOCOM
+A CMOS Image Sensor using Variable Reference Time Domain Encoding.,ISCAS
+The strength of vicinity annexation in opportunistic networking.,INFOCOM
+Attributing authorship of revisioned content.,WWW
+An Automated System for Web Portal Personalization.,VLDB
+Elements of Style: Learning Perceptual Shape Style Similarity,SIGGRAPH
+High-speed Fluorescence Imaging System for Freely Moving Animals.,ISCAS
+A Volumetric Method for Building Complex Models from Range Images.,SIGGRAPH
+A fine-resolution Time-to-Digital Converter for a 5GS/S ADC.,ISCAS
+Error spectrum shaping approach for lattice filter roundoff noise reduction.,ISCAS
+Quaternionic formulation of the first regularity for four-band paraunitary filter banks.,ISCAS
+Choosing an Efficient Internal Schema.,VLDB
+Communication as information-seeking: the case for mobile social software for developing regions.,WWW
+Planar microcoils array applied to magnetic beads based lab-on-chip for high throughput applications.,ISCAS
+Delayed-dictionary compression for packet networks.,INFOCOM
+A UWB mixer with a balanced wide band active balun using crossing centertaped inductor.,ISCAS
+General capacity scaling of wireless networks.,INFOCOM
+An efficient buffer management policy based on an integrated Fuzzy-GA approach.,INFOCOM
+Optimal Allocation of Resources in Distributed Information Networks.,VLDB
+Wavelet-based spatially adaptive method for despeckling SAR images.,ISCAS
+Set-valued Derivative and Lyapunov Method for Full-range Cellular Neural Networks.,ISCAS
+Another look at the retina as an image scalar quantizer.,ISCAS
+"Inside the New Coolstreaming: Principles, Measurements and Performance Implications.",INFOCOM
+Information integration over time in unreliable and uncertain environments.,WWW
+Using Google distance to weight approximate ontology matches.,WWW
+Indexing in a Hypertext Database.,VLDB
+Equivalent rise time for resonance in power/ground noise estimation.,ISCAS
+EMI reduction by resonant clock distribution networks.,ISCAS
+Extracting context to improve accuracy for HTML content extraction.,WWW
+A set of questions for a concept inventory for a DC Circuits course.,ISCAS
+A revenue sharing mechanism for federated search and advertising.,WWW
+Tuning Database Configuration Parameters with iTuned.,VLDB
+Padding for orthogonality: Efficient subspace authentication for network coding.,INFOCOM
+Continuous reference images for FTIR touch sensing.,SIGGRAPH
+On Replica Placement for QoS-Aware Content Distribution.,INFOCOM
+Experiences in Federated Databases: From IRO-DB to MIRO-Web.,VLDB
+A Demonstration of DBWipes: Clean as You Query.,VLDB
+Precise area-controlled return-to-zero current steering DAC with reduced sensitivity to clock jitter.,ISCAS
+Network emulation testbed for DTN applications and protocols.,INFOCOM
+Similarity measure and instance selection for collaborative filtering.,WWW
+SpeedGate: A smart data pricing testbed based on speed tiers.,INFOCOM
+An all-digital PLL with a first order noise shaping Time-to-Digital Converter.,ISCAS
+An adaptive neuron circuit for signal compression.,ISCAS
+Gossip-based ad hoc routing.,INFOCOM
+Multiresolution painting and compositing.,SIGGRAPH
+Low-Voltage CMOS Single Ended and Fully Differential Amplifier with Programmable Gain.,ISCAS
+"Annotating and Searching Web Tables Using Entities, Types and Relationships.",VLDB
+Approximation Algorithms for Grooming in Optical Network Design.,INFOCOM
+Digital camera identification using Colour-Decoupled photo response non-uniformity noise pattern.,ISCAS
+Learning to Remove Soft Shadows,SIGGRAPH
+Second international workshop on RESTful design (WS-REST 2011).,WWW
+Spectrum clouds: A session based spectrum trading system for multi-hop cognitive radio networks.,INFOCOM
+Automatic identification of user goals in Web search.,WWW
+Exchanging pairwise secrets efficiently.,INFOCOM
+When is a List is a List?: Web Page Re-authoring for Small Display Devices.,WWW
+Stylization and abstraction of photographs.,SIGGRAPH
+High-PF and ultra-low-THD power factor correction controller by sinusoidal-wave synthesis and optimized THD control.,ISCAS
+Efficient passive transmission line macromodeling algorithm using method of characteristics.,ISCAS
+Personal Voice Call Assistant: VoiceXML and SIP in a Distributed Environment.,WWW
+A single inductor multiple output converter with adaptive delta current mode control.,ISCAS
+Application of Novel Technologies to the Management of a Very Large Date Base.,VLDB
+Almost optimal virtual machine placement for traffic intense data centers.,INFOCOM
+Data Dependent Optimization of ROM Structures.,ISCAS
+Self-similarity in the Web.,VLDB
+A chip-to-chip clock-deskewing circuit for 3-D ICs.,ISCAS
+Lightweight Graphical Models for Selectivity Estimation Without Independence Assumptions.,VLDB
+QUIET: Continuous Query-driven Index Tuning.,VLDB
+Code division parallel delta-sigma A/D converter with probabilistic iterative decoding.,ISCAS
+Measurement of cell and bacterial activity using array-based ISFET Chemical Current-Conveyor in weak-inversion.,ISCAS
+A scalable offset-cancelled current/voltage sense amplifier.,ISCAS
+A review of magnetic cellular automata systems.,ISCAS
+A hierarchical monothetic document clustering algorithm for summarization and browsing search results.,WWW
+Towards Economically Viable Infrastructure-Based Overlay Multicast Networks.,INFOCOM
+iBind: smooth indirect binding using segmented thin-layers.,SIGGRAPH
+Scheduling Algorithms for a Cache Pre-Filling Content Distribution Network.,INFOCOM
+A novel digitally controlled low noise ring oscillator.,ISCAS
+Temporally coherent video matting.,SIGGRAPH
+An efficient algorithm for finding the CSG representation of a simple polygon.,SIGGRAPH
+Modular Reduction without Precomputational Phase.,ISCAS
+The effect of D/A accuracy on the performance of digital predistortion for RF power amplifiers.,ISCAS
+Shaboned display: an interactive substantial display using soap bubbles.,SIGGRAPH
+Mobile topigraphy: large-scale tag cloud visualization for mobiles.,WWW
+An Injection of Tree Awareness: Adding Staircase Join to PostgreSQL.,VLDB
+munica: an advancing age's social networking device with greeting cards.,SIGGRAPH
+Concise and Expressive Mappings with +Spicy.,VLDB
+On quantifying the figures of merit of power-gating for leakage power minimization in nanometer CMOS circuits.,ISCAS
+A Framework for Supporting DBMS-like Indexes in the Cloud.,VLDB
+Exposing private information by timing web applications.,WWW
+Analog Implementation of SNR based Gain Adaptation for Denoising.,ISCAS
+Integration of a wireless sensor network project for introductory circuits and systems teaching.,ISCAS
+Integration time optimization for integrating photosensors.,ISCAS
+Improving Adaptable Similarity Query Processing by Using Approximations.,VLDB
+A new current-mode incremental signaling scheme with applications to Gb/s parallel links.,ISCAS
+Adaptive and Big Data Scale Parallel Execution in Oracle .,VLDB
+Secure crowdsourcing-based cooperative pectrum sensing.,INFOCOM
+Designing A Generalized NF2 Model with an SQL-Type Language Interface.,VLDB
+Analytical and experimental study of tuning range limitation in mm-wave CMOS LC-VCOs.,ISCAS
+Database De-Centralization - A Practical Approach.,VLDB
+"High Speed, Minimal Area, and Low Power SEC Code for DRAMs with Large I/O Data Widths.",ISCAS
+On Bubble Memories and Relational Data Base.,VLDB
+Fast replication in content distribution overlays.,INFOCOM
+Finding Regular Simple Paths in Graph Databases.,VLDB
+Analysis and understanding of paintings by Ito Jakuchu.,SIGGRAPH
+GPS comics: <i>seeing thru walls</i>.,SIGGRAPH
+Power analysis attack of QCA circuits: A case study of the Serpent cipher.,ISCAS
+Analysis and design of lumped-element quadrature couplers with lossy passive elements.,ISCAS
+State space modeling for sub-threshold SRAM stability analysis.,ISCAS
+Fast algorithms for power grid analysis based on effective resistance.,ISCAS
+Ambiguity in Processing Boolean Queries on TDMS Tree Structures: A Study of Four Different Philosophies.,VLDB
+Modeling Synaptic Plasticity within Networks of Highly Accelerated I&amp;F Neurons.,ISCAS
+A new deflection shape function for square membrane CMUT design.,ISCAS
+Considerations for Sizing Buffers in Optical Packet Switched Networks.,INFOCOM
+"Distributed, secure load balancing with skew, heterogeneity and churn.",INFOCOM
+A low-distortion and wide dynamic range CMOS imager for wireless capsule endoscopy.,ISCAS
+Optimal rate allocation for scalable video multicast over WiMAX.,ISCAS
+A Modularization Mechanism for Conceptual Modeling.,VLDB
+Efficient Hardware Architecture for Fast IP Address Lookup.,INFOCOM
+WL-VC SRAM: a low leakage memory circuit for deep sub-micron design.,ISCAS
+Efficient and distributed computation of maximum multicast rates.,INFOCOM
+Connectivity of large-scale Cognitive Radio Ad Hoc Networks.,INFOCOM
+A Testbed for Managing Dynamic Mixed Workloads.,VLDB
+Mismatch Compensated Design Techniques under Packaging-Induced Die Stress.,ISCAS
+The REMIT System for Paraphrasing Relational Query Expressions into Natural Language.,VLDB
+Know your personalization: learning topic level personalization in online services.,WWW
+Hardware accelerated shaders using FPGA's.,SIGGRAPH
+Shimon + ZOOZbeat: an improvising robot musician you can jam with.,SIGGRAPH
+Jitter error spectrum for NRZ D/A converters.,ISCAS
+On the Limitations of the Variance-time Test for Inference of Long-range Dependence.,INFOCOM
+Shuffling a Stacked Deck: The Case for Partially Randomized Ranking of Search Engine Results.,VLDB
+Improving PA efficiency by chaos-based spreading in multicarrier DS-CDMA systems.,ISCAS
+Synchronization and phase synthesis using PLL neural networks.,ISCAS
+A merged first and second stage for low power pipelined ADC.,ISCAS
+Predictive rendering.,SIGGRAPH
+Wiki content templating.,WWW
+Satellite over Satellite (SOS) Network: A Novel Architecture for Satellite Network.,INFOCOM
+Scalable processing of flexible graph pattern queries on the cloud.,WWW
+An area-efficient sampling rate converter using negative feedback technique.,ISCAS
+Design of grid multi-wing butterfly chaotic attractors from piecewise L&uuml; system based on switching control and heteroclinic orbit.,ISCAS
+Behavior based web page evaluation.,WWW
+"Biological Data Management: Research, Practice and Opportunities.",VLDB
+Distributed Algorithms for Approximating Wireless Network Capacity.,INFOCOM
+Low-Rank Mechanism: Optimizing Batch Queries under Differential Privacy.,VLDB
+Efficient memory architecture for JPEG2000 entropy codec.,ISCAS
+Integrating Networks Measurements and Speech Quality Subjective Scores for Control Purposes.,INFOCOM
+Auditing for Accessibility.,WWW
+Implementation of a CNN-based perceptual framework on a roving robot.,ISCAS
+Adaptive Early Packet Filtering for Defending Firewalls Against DoS Attacks.,INFOCOM
+The Transaction Concept: Virtues and Limitations (Invited Paper),VLDB
+Usability and Expressiveness in Database Keyword Search: Bridging the Gap.,VLDB
+Dynamic Cross-Layer Association in 802.11-Based Mesh Networks.,INFOCOM
+Progressive Lightcuts for GPU.,SIGGRAPH
+Opinion integration through semi-supervised topic modeling.,WWW
+A Demonstration of SciDB: A Science-Oriented DBMS.,VLDB
+Time-Stepped Hybrid Simulation (TSHS) for Large Scale Networks.,INFOCOM
+NMOS-only Class-D Output Stages based on Charge Pump Architectures.,ISCAS
+An interactive 3D toolkit for constructing 3D widgets.,SIGGRAPH
+Lumi-breath: flow of energy.,SIGGRAPH
+Hash-Based Join Algorithms for Multiprocessor Computers.,VLDB
+Where to adapt dynamic service compositions.,WWW
+Broadband beamfoming using Nested Planar Arrays and 3D FIR frustum filters.,ISCAS
+Locality in Search Engine Queries and Its Implications for Caching.,INFOCOM
+Self-Organizing Dynamic Fractional Frequency Reuse for Best-Effort Traffic through Distributed Inter-Cell Coordination.,INFOCOM
+Efficient skyline querying with variable user preferences on nominal attributes.,VLDB
+Dynamic Power Allocation Under Arbitrary Varying Channels - The Multi-User Case.,INFOCOM
+Extended User-Defined Indexing with Application to Textual Databases.,VLDB
+Split-ADC Digital Background Correction of Open-Loop Residue Amplifier Nonlinearity Errors in a 14b Pipeline ADC.,ISCAS
+ReqFlex: Fuzzy Queries for Everyone.,VLDB
+Realistic animation of rigid bodies.,SIGGRAPH
+A retargeting methodology of nano-watt CMOS reference circuit based on advanced compact MOSFET model.,ISCAS
+On the Fundamental Limits of Broadcasting in Wireless Mobile Networks.,INFOCOM
+"Calibrating the Query Optimizer Cost Model of IRO-DB, an Object-Oriented Federated Database System.",VLDB
+Detailed analysis of a phase ADC.,ISCAS
+Client-server web applications widgets.,WWW
+Distributed video coding based on adaptive binning.,ISCAS
+Pragmatic evaluation of folksonomies.,WWW
+Tribeca: A Stream Database Manager for Network Traffic Analysis.,VLDB
+On The Spatiotemporal Burstiness of Terms.,VLDB
+Decentralized Authorization in a Database System.,VLDB
+Cantina: a content-based approach to detecting phishing web sites.,WWW
+"Wide-range, reference free, on-chip voltage sensor for variable Vdd operations.",ISCAS
+Prediction-based adaptive transform coefficients scanning for inter-frame video coding.,ISCAS
+A New Normalized Minimum-error Entropy Algorithm with Reduced Computational Complexity.,ISCAS
+A simple and efficient dithering method for vector quantizer based mismatch-shaped &#916;&#931; DACs.,ISCAS
+Web-based framework for spatiotemporal screen real estate management of interactive public displays.,WWW
+Advanced colluder detection techniques for OSIFT-based hiding codes.,ISCAS
+"Multiple Source, Multiple Destination Network Tomography.",INFOCOM
+Accurate detection of out-of-control variations from digital camera devices.,ISCAS
+Education of Digital and Analog Circuits supported by computer algebra system.,ISCAS
+Visual-weighted motion compensation frame interpolation with motion vector refinement.,ISCAS
+Tertiary-Tree 12-GHz 32-bit Adder in 65nm Technology.,ISCAS
+Fine water with coarse grids: combining surface meshes and adaptive discontinuous Galerkin.,SIGGRAPH
+Trajectory improves data delivery in vehicular networks.,INFOCOM
+Tiled Interleaving for Multi-Level 2-D Discrete Wavelet Transform.,ISCAS
+Temperature performance of sub-1V ultra-low power current sources.,ISCAS
+Temporal summarization of event-related updates in wikipedia.,WWW
+Security: Cross Layer Protocol in Wireless Sensor Network.,INFOCOM
+The extended Kalman filtering algorithm for carrier synchronization and the implementation.,ISCAS
+RDFPeers: a scalable distributed RDF repository based on a structured peer-to-peer network.,WWW
+An Efficient SQL-based RDF Querying Scheme.,VLDB
+Database Program Conversion: A Framework for Research.,VLDB
+Pan and scan: Configuring cameras for coverage.,INFOCOM
+A mathematical framework for active circuits based on port equivalence using limit variables.,ISCAS
+Making radiosity usable: automatic preprocessing and meshing techniques for the generation of accurate radiosity solutions.,SIGGRAPH
+Increasing Buffer-Locality for Multiple Index Based Scans through Intelligent Placement and Index Scan Speed Control.,VLDB
+Toward efficient and accurate order-independent transparency.,SIGGRAPH
+WS-replication: a framework for highly available web services.,WWW
+A tile-based 3D frame using a reconfigurable display matrix.,SIGGRAPH
+A pipelined dual-channel switched capacitor programmable gain amplifier.,ISCAS
+"A high precision, output-capacitor-free low-dropout regulator for system-on-chip design.",ISCAS
+PatchTable: Efficient Patch Queries for Large Datasets and Applications,SIGGRAPH
+Embracing Interference in Ad Hoc Networks Using Joint Routing and Scheduling with Multiple Packet Reception.,INFOCOM
+Panoramic imaging system for mobile devices.,SIGGRAPH
+Lexicographic Fairness in WDM Optical Cross-Connects.,INFOCOM
+Approximate Substring Matching over Uncertain Strings.,VLDB
+"tangible workbench ""TW"": with changeable markers.",SIGGRAPH
+A 115&micro;W UWB Programmable Gain Amplifier for intelligent tire personal area network.,ISCAS
+A novel charge-metering method for voltage mode neural stimulation.,ISCAS
+Differentiated Multimedia Web Services Using Quality Aware Transcoding.,INFOCOM
+Design of Digital IIR Integrator using Discrete Hartley Transform Interpolation Method.,ISCAS
+Buzz-based recommender system.,WWW
+"Stable Peers: Existence, Importance, and Application in Peer-to-Peer Live Video Streaming.",INFOCOM
+Pigeon: impossible.,SIGGRAPH
+Spherical representation and polyhedron routing for load balancing in wireless sensor networks.,INFOCOM
+Correlation Maps: A Compressed Access Method for Exploiting Soft Functional Dependencies.,VLDB
+Particle transport and image synthesis.,SIGGRAPH
+In Vitro Epileptic Seizure Prediction Microsystem.,ISCAS
+A robust optimization approach to backup network design with random failures.,INFOCOM
+The Propel Distributed Services Platform.,VLDB
+Estimation of Capacitive Crosstalk-Induced Short-Circuit Energy.,ISCAS
+Visualization technologies as a tool for science education (panel session).,SIGGRAPH
+A Protocol-Independent Approach for Analyzing the Optimal Operation Point of CSMA/CA Protocols.,INFOCOM
+Efficient XSLT Processing in Relational Database System.,VLDB
+Texture mapping progressive meshes.,SIGGRAPH
+IO-Top-k: Index-access Optimized Top-k Query Processing.,VLDB
+Log-domain Circuit Models of Chemical Reactions.,ISCAS
+ARIES/NT: A Recovery Method Based on Write-Ahead Logging for Nested Transactions.,VLDB
+Synchronization and Bifurcations in Networks of Coupled Hindmarsh-Rose Neurons.,ISCAS
+Output spectrum analysis of buck converters in DCM with PFM control.,ISCAS
+Searching for events in the blogosphere.,WWW
+An Efficient Method for Estimation of Autoregressive Signals Subject to Colored Noise.,ISCAS
+"A low-voltage, high linear programmable triode transconductor.",ISCAS
+Effective summarization of large collections of personal photos.,WWW
+"Cognitive Modeling: Knowledge, Reasoning and Planning for Intelligent Characters.",SIGGRAPH
+A continuous-time VCO-assisted VCO-based &#931;&#916; modulator with 76.6dB SNDR and 10MHz BW.,ISCAS
+Constraints methods for flexible models.,SIGGRAPH
+A novel representation for digital scenes.,SIGGRAPH
+User-Oriented Data Base Query with the ROBOT Natural Language Query System.,VLDB
+The Semantic Web Paving the Way to the Knowledge Society.,VLDB
+On the Quality of Triangle Inequality Violation Aware Routing Overlay Architecture.,INFOCOM
+Faking Sandy: characterizing and identifying fake images on Twitter during Hurricane Sandy.,WWW
+Optimized asynchronous multi-channel neighbor discovery.,INFOCOM
+collective.,SIGGRAPH
+Analytical Design of an Equiripple DC-Notch FIR Filter.,ISCAS
+A framework for realistic image synthesis.,SIGGRAPH
+Forcehttps: protecting high-security web sites from network attacks.,WWW
+A general framework for adaptive and online detection of web attacks.,WWW
+Design and development of learning management system at universiti Putra Malaysia: a case study of e-SPRINT.,WWW
+An Approach to Materialize Digital Fingerprinting Based on Proxy Signature Scheme.,WWW
+Dynamics of a Logarithmic Transimpedance Amplifier.,ISCAS
+SNDocRank: document ranking based on social networks.,WWW
+Homepage live: automatic block tracing for web personalization.,WWW
+Fast anomaly detection despite the duplicates.,WWW
+"Network Calculus Based Simulation for TCP Congestion Control: Theorems, Implementation and Evaluation.",INFOCOM
+System analysis and energy model for radio-triggered battery-less monolithic wireless sensor receiver.,ISCAS
+A 7 mW 2.5 GHz spread spectrum clock generator using switch-controlled injection-locked oscillator.,ISCAS
+Resequencing Delays Under Multipath Routing - Asymptotics in a Simple Queueing Model.,INFOCOM
+Computation in communication: Spike event coding for programmable analog arrays.,ISCAS
+ODISSEA: A Peer-to-Peer Architecture for Scalable Web Search and Information Retrieval.,WWW
+A hybrid MPPT method for Photovoltaic systems via estimation and revision method.,ISCAS
+Application-aware virtual machine migration in data centers.,INFOCOM
+Accelerating Pathology Image Data Cross-Comparison on CPU-GPU Hybrid Systems.,VLDB
+Multi-clock pipeline structure for 802.11 a WLAN transceiver.,ISCAS
+A low power multi-mode CMOS image sensor with integrated on-chip motion detection.,ISCAS
+Fluctuation tolerant read scheme for ultrafast DNA sequencing with nanopore device.,ISCAS
+Automated semantic tagging of speech audio.,WWW
+All-Optical Label Stacking: Easing the Trade-offs Between Routing and Architecture Cost in All-Optical Packet Switching.,INFOCOM
+"Fast and accurate distance, penetration, and collision queries using point-sphere trees and distance fields.",SIGGRAPH
+CURE for Cubes: Cubing Using a ROLAP Engine.,VLDB
+Object Tracking Based on RFID Coverage Visual Compensation in Wireless Sensor Network.,ISCAS
+Line-based image coding using adaptive prediction filters.,ISCAS
+A double-sampled path-coupled single-loop &#931;&#916; modulator using noise-shaped integrating quantizer.,ISCAS
+GigaHash: scalable minimal perfect hashing for billions of urls.,WWW
+Predicting advertiser bidding behaviors in sponsored search by rationality modeling.,WWW
+Perfect shuffling for cycle efficient puncturer and interleaver for software defined radio.,ISCAS
+Two-dimensional communication.,SIGGRAPH
+Designing with constraints parametric BIM.,SIGGRAPH
+TapShot: screenshot snippets as GUI shortcuts.,SIGGRAPH
+OWL DL vs. OWL flight: conceptual modeling and reasoning for the semantic Web.,WWW
+Cluster-Based Back-Pressure Routing Algorithm.,INFOCOM
+Web engineering with the visual software circuit board.,WWW
+Semi-symbolic modeling and simulation of circuits and systems.,ISCAS
+Design methodology for inductive power transfer systems targeting high power implantable devices.,ISCAS
+On Index Selection Schemes for Nested Object Hierarchies.,VLDB
+The Crosspoint-Queued Switch.,INFOCOM
+A Randomized Web-Cache Replacement Scheme.,INFOCOM
+A back telemetry-capable active high efficiency rectifier in standard CMOS process.,ISCAS
+Towards leveraging closed captions for news retrieval.,WWW
+Efficient output transition time modeling in CMOS gates with ramp/exponential inputs.,ISCAS
+A deformer-based approach to facial rigging.,SIGGRAPH
+Webbed Spaces: Between Exhibition and Network (Panel).,SIGGRAPH
+Throughput Analysis of End-to-End Measurement-Based Admission Control in IP.,INFOCOM
+Special properties of the modified DFT to achieve algorithmic fault tolerance in Adaptive Filters.,ISCAS
+BCN: Expansible network structures for data centers using hierarchical compound graphs.,INFOCOM
+An integrated four-port converter for compact and efficient hybrid power systems.,ISCAS
+Case Study: GPU-based implementation of sequence pair based floorplanning using CUDA.,ISCAS
+Power minimization of a 433-MHz LC VCO for an implantable neural recording system.,ISCAS
+Security Model for Web Enabled Date Warehouse.,WWW
+Accurate Transformation-based Timing Analysis for RC Non-tree Circuits.,ISCAS
+Wavelet based detection of moving tree branches and leaves in video.,ISCAS
+DBMS Research at a Crossroads: The Vienna Update.,VLDB
+Convergence analysis of continuous-time systems based on feedforward neural networks.,ISCAS
+Multiple sub-pixel interpolation filters with adaptive symmetry for high-resolution video coding.,ISCAS
+A practical model for subsurface light transport.,SIGGRAPH
+"One project, four schema languages: medley or melee?",WWW
+Collaborative filtering meets next check-in location prediction.,WWW
+Approximating Optimal Spare Capacity Allocation by Successive Survivable Routing.,INFOCOM
+"Track globally, deliver locally: improving content delivery networks by tracking geographic social cascades.",WWW
+On Model Parameter Estimation for H.264/AVC Rate Control.,ISCAS
+Rank aggregation for meta-search engines.,WWW
+A Chain Reaction DoS Attack on 3G Networks: Analysis and Defenses.,INFOCOM
+Indexing Data-oriented Overlay Networks.,VLDB
+XML design for relational storage.,WWW
+A mismatch-robust period-based VCO frequency comparison technique for ULP receivers.,ISCAS
+Semantic virtual environments.,WWW
+On the Potential of Structure-Free Data Aggregation in Sensor Networks.,INFOCOM
+Design and performance analysis of DS-UWB rake receiver.,ISCAS
+Properties of random direction models.,INFOCOM
+LOD Generation for Urban Scenes,SIGGRAPH
+Drive-By Localization of Roadside WiFi Networks.,INFOCOM
+Walk and learn: a two-stage approach for opinion words and opinion targets co-extraction.,WWW
+Parameter estimation of Hodgkin-Huxley neuronal model using dual extended Kalman filter.,ISCAS
+Learning to classify human object sketches.,SIGGRAPH
+Object Database Morphology.,VLDB
+Modelling and analysis of multicell converters using discrete time models.,ISCAS
+Early case splitting and false path detection to improve high level ATPG techniques.,ISCAS
+Analytical Transient Response and Propagation Delay Model for Nanoscale CMOS Inverter.,ISCAS
+A Novel Genetic Algorithm with Cell Crossover for Circuit Design Optimization.,ISCAS
+DEFT: Distributed Exponentially-Weighted Flow Splitting.,INFOCOM
+Portable biomarker detection with magnetic nanotags.,ISCAS
+DHT-based traffic localization in the wild.,INFOCOM
+On Restructuring Nested Relations in Partitioned Normal Form.,VLDB
+"A low-voltage, analog power-law function generator.",ISCAS
+A 5.2 pJ/pulse impulse radio pulse generator in 90 nm CMOS.,ISCAS
+The blues machine.,SIGGRAPH
+Bi-criterion optimization of non-uniform filter banks for acoustic echo cancellation.,ISCAS
+A parallel architecture for ray-tracing with an embedded intersection algorithm.,ISCAS
+Adaptive radiosity textures for bidirectional ray tracing.,SIGGRAPH
+AdapCode: Adaptive Network Coding for Code Updates in Wireless Sensor Networks.,INFOCOM
+Synchronizing semantic stores with commutative replicated data types.,WWW
+Vegetation on Monsters University.,SIGGRAPH
+Design of Cosine-Modulated Pseudo-QMF Banks Using Semidefinite Programming Relaxation.,ISCAS
+7-decades tunable translinear SiGe BiCMOS 3-phase sinusoidal oscillator.,ISCAS
+Group Event Detection for Video Surveillance.,ISCAS
+Binning algorithm for accurate computer aided device modeling.,ISCAS
+Performance of Reliable Transport Protocol over IEEE 802.11 Wireless LAN: Analysis and Enhancement.,INFOCOM
+"Rolling boles, optimal XML structure integrity for updating operations.",WWW
+A Graph-Based Model for Disconnected Ad Hoc Networks.,INFOCOM
+Migrating web application sessions in mobile computing.,WWW
+A click model for time-sensitive queries.,WWW
+Exploiting session-like behaviors in tag prediction.,WWW
+Guaranteeing the topology of an implicit surface polygonization for interactive modeling.,SIGGRAPH
+Fast-automatic 3D face generation using a single video camera.,SIGGRAPH
+Mobile Computing: Fertile Research Area or Black Hole? (Panel).,VLDB
+Influence propagation and maximization for heterogeneous social networks.,WWW
+Fully integrated and reconfigurable architecture for coherent self-testing of IQ ADCs.,ISCAS
+A 2-pin input multi frequency power scavenging unit for wireless sensor nodes and RFID tags.,ISCAS
+Aggregate Congestion Control for Distributed Multimedia Applications.,INFOCOM
+Efficient alias-free rendering using bit-masks and look-up tables.,SIGGRAPH
+Does social contact matter?: modelling the hidden web of trust underlying twitter.,WWW
+A controller for wind generators to increase damping of power oscillations.,ISCAS
+A semiblind receiver based upon multiple constrained subspace MUD for long-code downlink multirate DS-CDMA systems.,ISCAS
+Dynamically Swappable Hardware Design in Partially Reconfigurable Systems.,ISCAS
+A new model for adaptive displays based on von Kries hypothesis.,SIGGRAPH
+Mixed Techniques to Protect Precharged Busses against Differential Power Analysis Attacks.,ISCAS
+Beating Shapes Relying on Moire Level Lines,SIGGRAPH
+A reconfigurable IC for wireless monitoring of chemical or electrical neural activity.,ISCAS
+Design of orthogonal coded excitation for synthetic aperture imaging in ultrasound systems.,ISCAS
+Conecptual Modeling Using and Extended E-R Model (Abstract).,VLDB
+Adaptive Aggregation on Chip Multiprocessors.,VLDB
+Computationally-efficient iterative decoding for storage system design: Min-Sum refined.,ISCAS
+To Cache or Not To Cache?,INFOCOM
+On the Effectiveness of Probabilistic Packet Marking for IP Traceback under Denial of Service Attack.,INFOCOM
+Analysis of the convergence behavior of the complex Gaussian kernel LMS algorithm.,ISCAS
+Reducing Packet Losses in Networks of Commodity IEEE 802.15.4 Sensor Motes Using Cooperative Communication and Diversity Combination.,INFOCOM
+A noise-tolerant matchline scheme with XOR-based conditional keeper for energy-efficient TCAM.,ISCAS
+Output perturbation with query relaxation.,VLDB
+Perturbation analysis of subspace-based semi-blind MIMO channel estimation approaches.,ISCAS
+High-order multi-bit incremental converter with Smart-DEM algorithm.,ISCAS
+Using proportional transportation similarity with learned element semantics for XML document clustering.,WWW
+A sub-100nA power management system for wireless structure health monitoring applications.,ISCAS
+A novel MUX-FF circuit for low power and high speed serial link interfaces.,ISCAS
+A Decomposition Method for Transmission Scheduling in Multi-Channel Wireless Sensor Networks.,INFOCOM
+Collaborative ICT for Indian business clusters.,WWW
+DNA-like Learning Algorithm of CNN Template Implementing Boolean Functions.,ISCAS
+Mobile tagging and mixed realities.,SIGGRAPH
+A Presentation Architecture for Individualized Content.,WWW
+Topology Control in Heterogeneous Wireless Networks: Problems and Solutions.,INFOCOM
+Sparse kernel cepstral coefficients (SKCC): Inner-product based features for noise-robust speech recognition.,ISCAS
+"Satellite Navigation: New Signals, New Challenges.",ISCAS
+An Adaptive Block Size Phase Correlation Motion Estimation Using Adaptive Early Search Termination Technique.,ISCAS
+3D reconstruction from planar points: A candidate method for authentication of fingerprint images captured by mobile devices.,ISCAS
+A real-time motion-feature-extraction image processor employing digital-pixel-sensor-based parallel architecture.,ISCAS
+Protection of Information in Relational Data Bases.,VLDB
+Optimal Bandwidth Reservation Schedule in Cellular Network.,INFOCOM
+The Origin of Power-Laws in Internet Topologies Revisited.,INFOCOM
+FRM-Based FIR Filters with Minimum Coefficient Sensitivities.,ISCAS
+Internet search engines: past and future.,WWW
+Oscillations with TCP-Like Flow Control in Networks of Queues.,INFOCOM
+"Design, Analysis and Implementation of Integrated Micro-Thermal Control Systems.",ISCAS
+A Comparative Study of 6T and 4T SRAM Cells in Double-Gate CMOS with Statistical Variation.,ISCAS
+Facilitating Multimedia Database Exploration through Visual Interfaces and Perpetual Query Reformulations.,VLDB
+A parallel processor architecture for graphics arithmetic operations.,SIGGRAPH
+A Unified Approach to Optimizing Performance in Networks Serving Heterogeneous Flows.,INFOCOM
+Best-effort Networks: Modeling and Performance Analysis via Large Networks Asymptotics.,INFOCOM
+Harmonic Control Network for 2.6 GHz CMOS Class-F Power Amplifier.,ISCAS
+Interactive light field display from a cluster of projectors.,SIGGRAPH
+ERA: Efficient Serial and Parallel Suffix Tree Construction for Very Long Strings.,VLDB
+DoNet: a semantic domotic framework.,WWW
+Algorithmic Applications for a new Result on Multivalued Dependencies.,VLDB
+Stackelberg games for energy-efficient power control in wireless networks.,INFOCOM
+Modeling and simulation of complex heterogeneous systems.,ISCAS
+Parsimonious Linear Fingerprinting for Time Series.,VLDB
+Understanding user goals in web search.,WWW
+Queries and Updates in the coDB Peer to Peer Database System.,VLDB
+Improving the power-delay product in SCL circuits using source follower output stage.,ISCAS
+CS4: A Tool for Database Design by Infological Simulation (Abstract).,VLDB
+A novel low-power physical design methodology for MTCMOS.,ISCAS
+SWIM: A Simple Model to Generate Small Mobile Worlds.,INFOCOM
+TicTacToon: a paperless system for professional 2D animation.,SIGGRAPH
+ISP and Egress Path Selection for Multihomed Networks.,INFOCOM
+Designing a Practical Access Point Association Protocol.,INFOCOM
+A class of reliable UDP-based transport protocols based on stochastic approximation.,INFOCOM
+A Middleware for Fast and Flexible Sensor Network Deployment.,VLDB
+Aggregate Maintenance for Data Warehousing in Informix Red Brick Vista.,VLDB
+BVH for efficient raytracing of dynamic metaballs on GPU.,SIGGRAPH
+Who is SMILing on the Web?,WWW
+How status and reputation shape human evaluations: consequences for recommender systems.,WWW
+Current mode DC-DC buck converters with optimal fast-transient control.,ISCAS
+Objectivity Industrial Exhibit.,VLDB
+On Network Correlated Data Gathering.,INFOCOM
+High performance data acquisition system for IRFPA testing.,ISCAS
+A CMOS contact imager for locating individual cells.,ISCAS
+Efficient similarity joins for near duplicate detection.,WWW
+Dynamic sawtooth compensation (DSC) technique with self-tuning mode selection (SMS) for current-mode Buck-Boost converter.,ISCAS
+Clustering Overhead for Hierarchical Routing in Mobile Ad hoc Networks.,INFOCOM
+sDTW: Computing DTW Distances using Locally Relevant Constraints based on Salient Feature Alignments.,VLDB
+Performance Issues in Incremental Warehouse Maintenance.,VLDB
+The Meandering Current Mobility Model and its Impact on Underwater Mobile Sensor Networks.,INFOCOM
+Arithmetic module generator with algorithm optimization capability.,ISCAS
+DipZoom: The Internet Measurements Marketplace.,INFOCOM
+A FVF based output capacitorless LDO regulator with wide load capacitance range.,ISCAS
+Truncated MCM using pattern modification for FIR filter implementation.,ISCAS
+Rome Reborn.,SIGGRAPH
+GridDataBus: Information-centric platform for scalable secure resilient phasor-data sharing.,INFOCOM
+GoThere: travel suggestions using geotagged photos.,WWW
+Congestion Control via Online Sampling.,INFOCOM
+Consensus in networked multi-agent systems via model predictive control with horizon one.,ISCAS
+Web based device independent mobile map applications.: the m-CHARTIS system.,WWW
+Maximum Throughput and Fair Bandwidth Allocation in Multi-Channel Wireless Mesh Networks.,INFOCOM
+Approaches to the implementation of noise-coupling in continuous-time Delta-Sigma modulators.,ISCAS
+Optimal control for base station sleep mode in energy efficient radio access networks.,INFOCOM
+Measuring harmonics by an improved FFT-based algorithm with considering frequency variations.,ISCAS
+Wireless network coding: Deciding when to flip the switch.,INFOCOM
+A custom GZIP decoder for DTV application.,ISCAS
+Task-binding based branch-and-bound algorithm for NoC mapping.,ISCAS
+Design and integration of a remotely programmable dental monitoring device.,ISCAS
+Cooperative Packet Caching and Shortest Multipath Routing in Mobile Ad hoc Networks.,INFOCOM
+Balancing Supply and Demand of Bandwidth in Wireless Cellular Networks: Utility Maximization over Powers and Rates.,INFOCOM
+Efficient Management of Multiversion Documents by Object Referencing.,VLDB
+Effect of Large Buffers on TCP Queueing Behavior.,INFOCOM
+Computer-mediated performance and extended instrument design.,SIGGRAPH
+Digital halftoning with space filling curves.,SIGGRAPH
+Towards a legged chip.,ISCAS
+Exact regenerating codes for Byzantine fault tolerance in distributed storage.,INFOCOM
+Lobe asymmetry-based automatic classification of brain magnetic resonance images.,ISCAS
+Beat story: life-log system of subjective time using heart beat rate.,SIGGRAPH
+Reading a Set of Disk Pages.,VLDB
+Developing practical models for teaching motion capture.,SIGGRAPH
+Fundamental and Secondary Issues in the Design of Non-Procedural Relational Languages.,VLDB
+L2P2: Location-aware location privacy protection for location-based services.,INFOCOM
+Compensation of IQ imbalance and transmitter nonlinearities in broadband MIMO-OFDM.,ISCAS
+Improving the coverage of ultra wideband impulse radio by pulse compression.,ISCAS
+Letter from the the Associate Editors.,VLDB
+Compressed data structures for annotated web search.,WWW
+Peceptual distortion metric based on wavelet frequency sensitivity and multiple visual fixations.,ISCAS
+Improved characterization of high speed continuous-time &#916;&#931; modulators using a duobinary test interface.,ISCAS
+A Compact On-Chip Capacitive-Coupling Scheme for Very-Low Frequency Applications.,ISCAS
+The efficient VLSI design of BI-CUBIC convolution interpolation for digital image processing.,ISCAS
+A dynamic game solution to malware attack.,INFOCOM
+Modeling the growth of future web.,WWW
+Particle swarm localization of acoustic sources in the presence of reverberation.,ISCAS
+A Fast 3D-BSG Algorithm for 3D Packing Problem.,ISCAS
+MyXDNS: a resquest routing dns server with decoupled server selection.,WWW
+Towards a development process for geospatial information retrieval and search.,WWW
+SHRiNK: A method for scaleable performance prediction and efficient network simulation.,INFOCOM
+I/O-Conscious Data Preparation for Large-Scale Web Search Engines.,VLDB
+OrientStore: A Schema Based Native XML Storage System.,VLDB
+Indexing Multi-Dimensional Uncertain Data with Arbitrary Probability Density Functions.,VLDB
+Noise coupling due to through silicon vias (TSVs) in 3-D integrated circuits.,ISCAS
+A reconfigurable FIR filter design using dynamic partial reconfiguration.,ISCAS
+A VLSI Architecture for a Fast Computation of the 2-D Discrete Wavelet Transform.,ISCAS
+A search engine for natural language applications.,WWW
+The Development and Application of Data Base Design Tools and Methodology.,VLDB
+XAR-miner: efficient association rules mining for XML data.,WWW
+Master Stability Function for networks of Chua's circuits with static and dynamic couplings.,ISCAS
+A Human Vision System based Flash Picture Coding Method for Video Coding.,ISCAS
+Physical layer security from inter-session interference in large wireless networks.,INFOCOM
+Using statistical topic models to organize and visualize large-scale architectural image databases.,SIGGRAPH
+DET FF topologies: A detailed investigation in the energy-delay-area domain.,ISCAS
+Turning liabilities into assets: Exploiting deep submicron CMOS technology to design secure embedded circuits.,ISCAS
+CosmicAI: generating sky backgrounds through content-based search and flexible composition.,SIGGRAPH
+Direct DDFS FM modulator with baseband interpolator.,ISCAS
+Block precoder-based energy constrained DFE.,ISCAS
+Surveillance face hallucination via variable selection and manifold learning.,ISCAS
+Provisioning Quality Controlled Medium Access in UltraWideBand-Operated WPANs.,INFOCOM
+Accurate transient response model for automatic synthesis of high-speed operational amplifiers.,ISCAS
+A 3mW 8-Bit radiation-hardened-by-design DAC for ultra-wide temperature range from -180&#176;C to 120&#176;C.,ISCAS
+Collaborative error control method for sequential logic circuits.,ISCAS
+A License Management Model to Support B2C and C2C Music Sharing.,WWW
+Towards a GBit/s Programmable Decoder for LDPC Convolutional Codes.,ISCAS
+The Yin and Yang of Processing Data Warehousing Queries on GPU Devices.,VLDB
+Decorating implicit surfaces.,SIGGRAPH
+Gamesense.,WWW
+CLB-based Detection and Correction of Bit-flip faults in SRAM-based FPGAs.,ISCAS
+Minimum-Energy Broadcast Using Practical Directional Antennas in All-Wireless Networks.,INFOCOM
+The External Schema and CODASYL.,VLDB
+An ultra-fast parallel architecture using sequential circuits computing on random bits.,ISCAS
+CMOS variable-gain wide-bandwidth CMFB-free differential current feedback amplifier for ultrasound diagnostic applications.,ISCAS
+VLSI implementation of a WiMAX/LTE compliant low-complexity high-throughput soft-output K-Best MIMO detector.,ISCAS
+Hybrid stereo camera: an IBR approach for synthesis of very high resolution stereoscopic image sequences.,SIGGRAPH
+SNR-based frame-level video bit rate allocation.,ISCAS
+3.5-D integration: A case study.,ISCAS
+Noise model of indirect-feedback sigma-delta image sensors.,ISCAS
+Packetostatics: deployment of massively dense sensor networks as an electrostatics problem.,INFOCOM
+Dual-Buffering Strategies in Object Bases.,VLDB
+A biomimetic CMOS synapse.,ISCAS
+A Low Power 4-bit Interleaved Burst Sampling ADC for Sub-GHz Impulse UWB Radio.,ISCAS
+A novel approach to statistical simulation of ICS affected by non-linear variabilities.,ISCAS
+A Method for Change Computation in Deductive Databases.,VLDB
+Maximum Coverage at Minimum Cost for Multi-Domain IP/MPLS Networks.,INFOCOM
+Design of a low power mixed-signal RAKE receiver.,ISCAS
+An Architecture for Managing Application Services over Global Networks.,INFOCOM
+Self-Configuring Information Management for Large-Scale Service Overlays.,INFOCOM
+Electronically tunable current-mode universal biquadratic filter using a single CCCFTA.,ISCAS
+Vulnerability and protection for distributed consensus-based spectrum sensing in cognitive radio networks.,INFOCOM
+Modified SDF Architecture for Mixed DIF/DIT FFT.,ISCAS
+Community-driven data grids.,VLDB
+Capacity-Constrained Design of Resilient Multi-Tier Wireless Mesh Networks.,INFOCOM
+Computer-Aided Average-Value Modeling of Fourth-Order PWM DC-DC Converters.,ISCAS
+A framework for evaluating network measures for functional importance.,WWW
+Realization of MIMO linear discrete-time systems with minimum L<sub>2</sub>-sensitivity and no overflow oscillations.,ISCAS
+Adaptive coded aperture projection.,SIGGRAPH
+Power-aware NoC router using central forecasting-based dynamic virtual channel allocation.,ISCAS
+DSP implementation of a low-complexity algorithm for real-time automated vessel detection in images of the fundus of the human retina.,ISCAS
+GeoScope: Online Detection of Geo-Correlated Information Trends in Social Networks.,VLDB
+Low-latency multi-flow broadcasts in fading wireless networks.,INFOCOM
+Rapid prototyping of web applications combining domain specific languages and model driven design.,WWW
+A Bit-Stuffing Algorithm for Crosstalk Avoidance in High Speed Switching.,INFOCOM
+The TreeScape System: Reuse of Pre-Computed Aggregates over Irregular OLAP Hierarchies.,VLDB
+The science of images: a cross-disciplinary introduction to the field of 3-D computer graphics.,SIGGRAPH
+On the optimal mobile association in heterogeneous wireless relay networks.,INFOCOM
+Complex Event Detection at Wire Speed with FPGAs.,VLDB
+Bonding-wire triangular spiral inductor for on-chip switching power converters.,ISCAS
+Consideration set generation in commerce search.,WWW
+A more precise model for web retrieval.,WWW
+A habit mining approach for discovering similar mobile users.,WWW
+Inferring Link Loss Using Striped Unicast Probes.,INFOCOM
+An experimental study of large-scale mobile social network.,WWW
+FDB: A Query Engine for Factorised Relational Databases.,VLDB
+Scalable Hierarchical Access Control in Secure Group Communications.,INFOCOM
+SEED: a framework for extracting social events from press news.,WWW
+A new low-voltage CMOS unity-gain buffer.,ISCAS
+Origins London-Belize Website.,SIGGRAPH
+Intelligent cage for remotely powered freely moving animal telemetry systems.,ISCAS
+An economic side-effect for prefix deaggregation.,INFOCOM
+A Fast and reliable switching median filter for highly corrupted images by impulse noise.,ISCAS
+Basins of attraction for periodic solutions of discretized sliding mode control systems.,ISCAS
+High-Performance Dynamic Pattern Matching over Disordered Streams.,VLDB
+A Signal Processing View on Packet Sampling and Anomaly Detection.,INFOCOM
+Oz: the great and volumetric.,SIGGRAPH
+Real-time compositing framework for interactive stereo fMRI displays.,SIGGRAPH
+Compact power-efficient CMOS exponential voltage-to-voltage converter.,ISCAS
+Balanced Packet Discard for Improving TCP Performance in ATM Networks.,INFOCOM
+SRAM in hold-operation: Modeling the interaction of soft-errors and switching power-supply noise.,ISCAS
+"Gossip algorithms: design, analysis and applications.",INFOCOM
+A Pragmatic Approach to Structured Database Design.,VLDB
+Locking range analysis for injection-locked frequency dividers.,ISCAS
+Optimizing throughput for limited receiver circuit power.,ISCAS
+Analysis and Performance Evaluation of a Digital Carrier Synchronizer for Modem Applications.,ISCAS
+A mixed queueing network model of mobility in a campus wireless network.,INFOCOM
+Visual thinkers in an age of computer visualization: problems and possibilities.,SIGGRAPH
+Policy Based QoS Architecture in MUSE.,INFOCOM
+Instant radiosity.,SIGGRAPH
+A high performance CAVLC encoder design for MPEG-4 AVC/H.264 video coding applications.,ISCAS
+Consort: Node-Constrained Opportunistic Routing in wireless mesh networks.,INFOCOM
+A novel neural network-based linearization and auto-compensation technique for sensors.,ISCAS
+Piko: A Framework for Authoring Programmable Graphics Pipelines,SIGGRAPH
+Quasi-Resonant Interconnects: A Low Power Design Methodology.,ISCAS
+Computational advertising: leveraging user interaction &amp; contextual factors for improved ad retrieval &amp; ranking.,WWW
+Managing and querying transaction-time databases under schema evolution.,VLDB
+Compact lumped element model for TSV in 3D-ICs.,ISCAS
+Offset cancellation for zero crossing based circuits.,ISCAS
+Retrieving Top-k Prestige-Based Relevant Spatial Web Objects.,VLDB
+Sampling Biases in IP Topology Measurements.,INFOCOM
+Indexing for Function Approximation.,VLDB
+On End-to-End Throughput of Opportunistic Routing in Multirate and Multihop Wireless Networks.,INFOCOM
+0.5V wavelet filters using current mirrors.,ISCAS
+BodyQoS: Adaptive and Radio-Agnostic QoS for Body Sensor Networks.,INFOCOM
+A machine-to-machine architecture to merge semantic sensor measurements.,WWW
+A Theoretical Analysis of Split Delta-Sigma ADCs.,ISCAS
+Double Bubbles Sans Toil and Trouble: Discrete Circulation-Preserving Vortex Sheets for Soap Films and Foams,SIGGRAPH
+Finding all modes of nonlinear oscillations by the Krawczyk-Moore-Jones algorithm.,ISCAS
+Concept for an adaptive digital front-end for multi-mode wireless receivers.,ISCAS
+An adaptive speed function of level set method for moving object extraction.,ISCAS
+Using photographic quality images in desktop applications (panel session).,SIGGRAPH
+Data Model Equivalence.,VLDB
+Approximate NN queries on Streams with Guaranteed Error/performance Bounds.,VLDB
+A distributed broadcast protocol in multi-hop cognitive radio ad hoc networks without a common control channel.,INFOCOM
+A Capacitor-Free CMOS Low-Dropout Regulator.,ISCAS
+Hardware-efficient filterbank design for fast recursive MDST and IMDST algorithms.,ISCAS
+Rango: a case of lighting and compositing a CG animated feature in an FX-oriented facility.,SIGGRAPH
+Iolaus: securing online content rating systems.,WWW
+Accuracy estimate and optimization techniques for SimRank computation.,VLDB
+A technique to design high entropy chaos-based true random bit generators.,ISCAS
+Novel MOSFET-only bandgap voltage reference.,ISCAS
+Providing Multiple Service Classes For Bursty Data Traffic in Cellular Networks.,INFOCOM
+Scheduling and binding for low gate leakage nanoCMOS datapath circuit synthesis.,ISCAS
+Making Large Scale Deployment of RCP Practical for Real Networks.,INFOCOM
+Double Mobility: Coverage of the Sea Surface with Mobile Sensor Networks.,INFOCOM
+"Modeling, Analysis and Improvement for BitTorrent-Like File Sharing Networks.",INFOCOM
+SplashDisplay: volumetric projection using projectile beads.,SIGGRAPH
+"Classification of access network types: Ethernet wireless LAN, ADSL, cable modem or dialup?",INFOCOM
+A free but efficient class AB two-stage operational amplifier.,ISCAS
+Fast HEVC intra mode decision using matching edge detector and kernel density estimation alike histogram generation.,ISCAS
+Quill: a collaborative design assistant for cross platform web application user interfaces.,WWW
+A Faceted Query Engine Applied to Archaeology.,VLDB
+Analyzing Quantitative Databases: Image is Everything.,VLDB
+REHIST: Relative Error Histogram Construction Algorithms.,VLDB
+Packet distribution Algorithms for Sensor Networks.,INFOCOM
+Analysis of n-Dimensional Quadtrees using the Hausdorff Fractal Dimension,VLDB
+Emancipated Pixels: Real-World Graphics in the Luminous Room.,SIGGRAPH
+Analog front-end RX design for UWB impulse radio in 90nm CMOS.,ISCAS
+A best-first tree-searching approach for ML decoding in MIMO system.,ISCAS
+Tekken 6 bloodline rebellion intro.,SIGGRAPH
+Bandwidth Allocation for Virtual Paths (BAVP): Investigation of Performance of Classical Constrained and Genetic Algorithm Based Optimisation Techniques.,INFOCOM
+A floating gate graphene FET complementary inverter with symmetrical transfer characteristics.,ISCAS
+Leveraging user comments for aesthetic aware image search reranking.,WWW
+Preface for the TempWeb '13 Workshop.,WWW
+Allocating inverted index into flash memory for search engines.,WWW
+PASSAGES: Preserving Anonymity of Sources and Sinks against Global Eavesdroppers.,INFOCOM
+Optimization of Systems of Algebraic Equations for Evaluating Datalog Queries.,VLDB
+Monolithic Spiral Transformers: A Design Methodology.,ISCAS
+Minimum Cost Data Aggregation with Localized Processing for Statistical Inference.,INFOCOM
+On the use of joint diagonalization in blind signal processing.,ISCAS
+Overview of Turn Data Management Platform for Digital Advertising.,VLDB
+Topic segmentation of message hierarchies for indexing and navigation support.,WWW
+Improving the Statistical Properties of Number Sequences Produced by Pseudorandom Generators derived from the R&eacute;nyi Chaotic Map.,ISCAS
+A New ACK Policy To Mitigate the Effects of Coexisting IEEE 802.11/802.11e Devices.,INFOCOM
+Perspective-computer graphics in Europe and Japan (panel session).,SIGGRAPH
+Design and realization of stereoscopic 3D for Disney classics.,SIGGRAPH
+Fast and accurate estimation of gain and sample-time mismatches in time-interleaved ADCs using on-chip oscillators.,ISCAS
+Cross-scene abnormal event detection.,ISCAS
+Growing documentary: creating a collaborative computer-supported story telling environment.,SIGGRAPH
+Space Efficiency in Synopsis Construction Algorithms.,VLDB
+Mining Top-K Large Structural Patterns in a Massive Network.,VLDB
+Adaptive mode and modulation coding switching scheme in MIMO multicasting system.,ISCAS
+Stimulating Cooperation in Multi-hop Wireless Networks Using Cheating Detection System.,INFOCOM
+Projected light microscopy.,SIGGRAPH
+Updates for Structure Indexes.,VLDB
+Selectivity Estimation for Fuzzy String Predicates in Large Data Sets.,VLDB
+Perspective dragging: quick area selection in photos.,SIGGRAPH
+Lighting technology of the last of us.,SIGGRAPH
+AMS and RF design for reliability methodology.,ISCAS
+Optimal Top-K Query Evaluation for Weighted Business Processes.,VLDB
+Large Scale Analysis of the eDonkey P2P File Sharing System.,INFOCOM
+Linear current mode image sensor with focal plane spatial image processing.,ISCAS
+ClouDiA: A Deployment Advisor for Public Clouds.,VLDB
+A mode-mapping and optimized MV conjunction based MGS-scalable SVC to AVC IPPP transcoder.,ISCAS
+Multi-chains encoding scheme in low-cost ATE.,ISCAS
+Performance of Random Access Scheduling Schemes in Multi-Hop Wireless Networks.,INFOCOM
+A 27-GHz low-power push-push LC VCO with wide tuning range in 65nm CMOS.,ISCAS
+Q-CSMA: Queue-Length Based CSMA/CA Algorithms for Achieving Maximum Throughput and Low Delay in Wireless Networks.,INFOCOM
+I want my virtual friends to be life size!: adapting Second Life to multi-screen projected environments.,SIGGRAPH
+A tool for design exploration and power optimization of CMOS RF circuits blocks.,ISCAS
+Discovering geographical topics in the twitter stream.,WWW
+Variable increment step based reconfigurable interleaver for multimode communication application.,ISCAS
+A New Quadrature LC-Oscillator.,ISCAS
+The Decomposition Versus Synthetic Approach to Relational Database Design.,VLDB
+High Performance Dictionary-Based String Matching for Deep Packet Inspection.,INFOCOM
+Impact of MOS threshold-voltage mismatch in current-steering DACs for CT &#931;&#916; modulators.,ISCAS
+SmartSeer: Using a DHT to Process Continuous Queries Over Peer-to-Peer Networks.,INFOCOM
+Query clustering using click-through graph.,WWW
+The Case for Determinism in Database Systems.,VLDB
+A cyclic vernier time-to-digital converter synthesized from a 65nm CMOS standard library.,ISCAS
+"A colloidal display: membrane screen that combines transparency, BRDF and 3D volume.",SIGGRAPH
+Disparity map acquisition with occlusion handling using warping constraint.,ISCAS
+3D reconstruction of intricate objects using planar cast shadows.,SIGGRAPH
+Robust analytical design of equiripple comb FIR filters.,ISCAS
+ASCENT: Adaptive Self-Configuring sEnsor Networks Topologies..,INFOCOM
+The flying : Kinect art using OpenNI and learning system.,SIGGRAPH
+A clock network of distributed ADPLLs using an asymmetric comparison strategy.,ISCAS
+WorldBrush: Interactive Example-based Synthesis of Procedural Virtual Worlds,SIGGRAPH
+A model for efficient and flexible image computing.,SIGGRAPH
+Analysis of communication models in web service compositions.,WWW
+Animation and rendering of complex water surfaces.,SIGGRAPH
+Image-based visual hulls.,SIGGRAPH
+Lock-free consistency control for web 2.0 applications.,WWW
+Tradeoffs in Processing Complex Join Queries via Hashing in Multiprocessor Database Machines.,VLDB
+Touch-less interaction smartphone on go!,SIGGRAPH
+Enhancing industry participation in ISCAS and Circuits and Systems Society.,ISCAS
+A motion sensor interactive interface for viewing and manipulating protein structural data in 3D.,SIGGRAPH
+Indexing Mixed Types for Approximate Retrieval.,VLDB
+Experiments with persian text compression for web.,WWW
+Overclocking datapath for latency-error tradeoff.,ISCAS
+Graphical representation of RDF queries.,WWW
+A novel approach for FFT data reordering.,ISCAS
+Pixelating vector line art.,SIGGRAPH
+Detection of a preseizure state in epilepsy: signal prediction by maximally weakly nonlinear networks?,ISCAS
+Variance Analysis for Monte Carlo Integration,SIGGRAPH
+Weighted Viterbi decoding for MIMO-OFDM systems with linear precoding.,ISCAS
+Drive and sense interface for gyroscopes based on bandpass sigma-delta modulators.,ISCAS
+Partitioning RDF exploiting workload information.,WWW
+Sampling clock jitter estimation and compensation in ADC circuits.,ISCAS
+EnLoc: Energy-Efficient Localization for Mobile Phones.,INFOCOM
+Improved hybrid coding scheme for intra 4&times;4 residual block produced by H.264/AVC.,ISCAS
+Gradient domain HDR compositing.,SIGGRAPH
+Soundness proof of Z semantics of OWL using institutions.,WWW
+Phoiling phishing.,WWW
+Link scheduling in sensor networks: distributed edge coloring revisited.,INFOCOM
+Impact of power control on the performance of ad hoc wireless networks.,INFOCOM
+Programming algorithms for multilevel phase-change memory.,ISCAS
+Interactive Schema Translation with Instance-Level Mappings.,VLDB
+Landmark Selection and Greedy Landmark-Descent Routing for Sensor Networks.,INFOCOM
+Moving big data to the cloud.,INFOCOM
+Simulation techniques for noise-analysis in the PLL design process.,ISCAS
+An importance-driven radiosity algorithm.,SIGGRAPH
+Group Recommendation: Semantics and Efficiency.,VLDB
+Data Markets in the Cloud: An Opportunity for the Database Community.,VLDB
+Lighting and rendering <i>Alice in Wonderland</i>.,SIGGRAPH
+Content-adaptive parallax barriers for automultiscopic 3D display.,SIGGRAPH
+A low-phase-noise LC QVCO with bottom-series coupling and capacitor tapping.,ISCAS
+Tunable Locally-Optimal Geographical Forwarding in Wireless Sensor Networks With Sleep-Wake Cycling Nodes.,INFOCOM
+Sailer: an effective search engine for unified retrieval of heterogeneous xml and web documents.,WWW
+On the Trade-Off Between Energy and Multicast Efficiency in 802.16e-Like Mobile Networks.,INFOCOM
+The Effect of Skewed Data Access on Buffer Hits and Data Contention an a Data Sharing Environment.,VLDB
+"The Implementation of GERM, An Entity-Relationship Data Base Management System",VLDB
+The webinos project.,WWW
+Increasing scene complexity: distributed vectorized view culling.,SIGGRAPH
+Autocalibration for virtual environments tracking hardware.,SIGGRAPH
+Implementation of a Fuzzy-Set Theoretic Data Structure System (Abstract).,VLDB
+Advances in semantic multimedia analysis for personalised content access.,ISCAS
+Tonality Index of Sigma-Delta Modulators : A Psychoacoustics Model Based Approach.,ISCAS
+Finding minimum interconnect sub-arrays in reconfigurable VLSI arrays.,ISCAS
+Gimme' the context: context-driven automatic semantic annotation with C-PANKOW.,WWW
+Reducing the effects of component mismatch by using relative size information.,ISCAS
+Scrolling behaviour with single- and multi-column layout.,WWW
+Analysis of TDMA crossbar real-time switch design for AFDX networks.,INFOCOM
+Encoder architecture with throughput over 10 Gbit/sec for quasi-cyclic LDPC codes.,ISCAS
+A CNN approach to computing arbitrary Boolean functions.,ISCAS
+A low-distortion fourth-order bandpass delta-sigma modulator.,ISCAS
+Design of a Massively Parallel Vision Processor based on Multi-SIMD Architecture.,ISCAS
+Joint Scheduling and Congestion Control in Mobile Ad-Hoc Networks.,INFOCOM
+Cat Shit One: the animated series.,SIGGRAPH
+Tree-structured linear-phase Nyquist FIR filter interpolators and decimators.,ISCAS
+Evita raced: metacompilation for declarative networks.,VLDB
+True Correlated Double Sampling and Comparator Design for Time-based Image Sensors.,ISCAS
+Demonstration of the TrajStore System.,VLDB
+Service Capacity of Peer to Peer Networks.,INFOCOM
+An OAI Approach to Sharing Subject Gateway Content.,WWW
+On Representing Incomplete Information in a Relational Data Base,VLDB
+Web projections: learning from contextual subgraphs of the web.,WWW
+Exploring the cloud from passive measurements: The Amazon AWS case.,INFOCOM
+Multi-Layer Perceptron including glial pulse and switching between learning and non-learning.,ISCAS
+Information Systems Design Approach Integrating Data and Transactions,VLDB
+Feline: Fast Elliptical Lines for Anisotropic Texture Mapping.,SIGGRAPH
+Memory-efficient scalable video encoder architecture for multi-source digital home environment.,ISCAS
+Privacy-Aware Mobile Services over Road Networks.,VLDB
+Synthesis of Polynomial-based Nonlinear Device and Harmonic Shifting Technique for Virtual Bass System.,ISCAS
+On the Distributions of the Relative Phase of Complex Wavelet Coefficients.,ISCAS
+Network equilibrium of heterogeneous congestion control protocols.,INFOCOM
+An autostereoscopic display.,SIGGRAPH
+Beyond triangles: gigavoxels effects in video games.,SIGGRAPH
+"From ""Think Like a Vertex"" to ""Think Like a Graph"".",VLDB
+Deploying Mesh Nodes under Non-Uniform Propagation.,INFOCOM
+The stereoscopic conversion pipeline for John Carter.,SIGGRAPH
+Real-Time Databases (Panel).,VLDB
+Epidemiological Modelling of Peer-to-Peer Viruses and Pollution.,INFOCOM
+Improving ReduceTask data locality for sequential MapReduce jobs.,INFOCOM
+Lip synchronization by acoustic inversion.,SIGGRAPH
+Understanding user spatial behaviors for location-based recommendations.,WWW
+A CMOS image sensor with spiking pixels for retinal stimulation.,ISCAS
+On the throughput scaling of Cognitive Radio ad hoc networks.,INFOCOM
+Surface: a film from underneath.,SIGGRAPH
+Design of hybrid continuous-time discrete-time delta-sigma modulators.,ISCAS
+Symmetry-aware analog layout placement design handling substrate-sharing constraints.,ISCAS
+Architecture and algorithms for an IEEE 802.11-based multi-channel wireless mesh network.,INFOCOM
+Heavenly appeals.,SIGGRAPH
+Data Reuse method between Heterogeneous Partitions (DRHP) in H.264/AVC motion compensator.,ISCAS
+A highly efficient method for extracting FSMs from flattened gate-level netlist.,ISCAS
+An Object-based Approach to Plenoptic Video Processing.,ISCAS
+A comparative web browser (CWB) for browsing and comparing web pages.,WWW
+A framework of spatio-temporal analysis for video surveillance.,ISCAS
+Low Fixed Pattern Noise Current-mode Imager Using Velocity Saturated Readout Transistors.,ISCAS
+MLC STT-RAM design considering probabilistic and asymmetric MTJ switching.,ISCAS
+Localized Statistical 3D Thermal Analysis Considering Electro-Thermal Coupling.,ISCAS
+Joint relevance and freshness learning from clickthroughs for news search.,WWW
+Measuring Availability in the Domain Name System.,INFOCOM
+Geographical topic discovery and comparison.,WWW
+A pilot study of cyber security and privacy related behavior and personality traits.,WWW
+An Energy-efficient Reconfigurable Viterbi Decoder on a Programmable Multiprocessor.,ISCAS
+A Lightweight Approach to Semantic Tagging.,WWW
+Indexing the Earth Mover's Distance Using Normal Distributions.,VLDB
+On the modeling and the stability of continuous-time Sigma-Delta-Modulators.,ISCAS
+A high speed IC Random Number Generator based on phase noise in ring oscillators.,ISCAS
+TURNUS: A design exploration framework for dataflow system design.,ISCAS
+A high speed configurable FPGA architecture for k-mean clustering.,ISCAS
+The Internet Dark Matter - on the Missing Links in the AS Connectivity Map.,INFOCOM
+Empirical Evaluation of Techniques for Measuring Available Bandwidth.,INFOCOM
+Incremetal Spatio-Temporal Feature Extraction and Retrieval for Large Video Database.,ISCAS
+Advanced Peer Clustering and Firework Query Model in the Peer-to-Peer Network.,WWW
+Novel VLSI implementation of Peano-Hilbert curve address generator.,ISCAS
+Feasibility study of FPGA-based equalizer for 112-Gbit/s optical fiber receivers.,ISCAS
+Near Optimal Multicriteria Spanner Constructions in Wireless Ad-Hoc Networks.,INFOCOM
+A Novel Zero Dynamics Design Method and its Application to Hydraulic Turbine Governor.,ISCAS
+Adaptive channel equalization: A simplified approach using the quantized-LMF algorithm.,ISCAS
+Sybil Attacks Against Mobile Users: Friends and Foes to the Rescue.,INFOCOM
+Hardness and Approximation of the Survivable Multi-Level Fat Tree Problem.,INFOCOM
+SnoopyTagging: recommending contextualized tags to increase the quality and quantity of meta-information.,WWW
+How Bad is Suboptimal Rate Allocation?,INFOCOM
+Universal embedded compression engine for LCD TV system-on-a-chip with Band-Expansion Progressive Wavelet Coding.,ISCAS
+Lightweight Mutual Authentication and Ownership Transfer for RFID Systems.,INFOCOM
+Poisson AER generator: inter-spike-intervals analysis.,ISCAS
+A high resolution and high accuracy R-2R DAC based on ordered element matching.,ISCAS
+Features of memristor emulator-based artificial neural synapses.,ISCAS
+Designing Information-Preserving Mapping Schemes for XML.,VLDB
+Active bandpass filter using transformer feedback in 0.18-&micro;m CMOS for 802.11a wireless LAN.,ISCAS
+Learning to detect phishing emails.,WWW
+Experimental results on wideband spectrum sensing using random sampling ADC in 90nm CMOS.,ISCAS
+Computer graphics achievement award: Przemyslaw Prusinkiewicz.,SIGGRAPH
+Hardware implementation of the double-tree scan architecture.,ISCAS
+An efficient distributed algorithm for resource allocation in large-scale coupled systems.,INFOCOM
+A Hall sensor microsystem with continuous gain calibration using fully integrated references.,ISCAS
+A skip-list approach for efficiently processing forecasting queries.,VLDB
+Effective modeling of CT functions for fast simulations using MATLAB-Simulink and VHDLAMS applied to Sigma-Delta architectures.,ISCAS
+Bargaining towards maximized resource utilization in video streaming datacenters.,INFOCOM
+Limiting Sybil Attacks in Structured P2P Networks.,INFOCOM
+On the Impact of Mobility on Multicast Capacity of Wireless Networks.,INFOCOM
+Location and the web (LocWeb 2008).,WWW
+Emergence of equilibria from individual strategies in online content diffusion.,INFOCOM
+Sigma delta ADC with a dynamic reference for accurate temperature and voltage sensing.,ISCAS
+Context-aware image semantic extraction in the social web.,WWW
+Statistical Databases.,VLDB
+Border Games in Cellular Networks.,INFOCOM
+PLASMA: A new routing paradigm for wireless multihop networks.,INFOCOM
+Towards Graph Containment Search and Indexing.,VLDB
+Issues in Distributed Database Management Systems: A Technical Overview.,VLDB
+A 20-MS/s sigma delta modulator for 802.11a applications.,ISCAS
+VRML: Prelude and Future (Panel).,SIGGRAPH
+Super-resolution technique for thermography with dual-camera system.,ISCAS
+XBenchMatch: a Benchmark for XML Schema Matching Tools.,VLDB
+Knowledge continuous integration process (K-CIP).,WWW
+Bare hand interaction in tabletop augmented reality.,SIGGRAPH
+"Full-Coverage and k-Connectivity (k=14, 6) Three Dimensional Networks.",INFOCOM
+Design of a step-up dc-dc converter with on-chip coupled inductors.,ISCAS
+Curve-to-curve associations in spline-based inbetweening and sweeping.,SIGGRAPH
+Front-end amplifier of low-noise and tunable BW/gain for portable biomedical signal acquisition.,ISCAS
+Assessing the Vulnerability of the Fiber Infrastructure to Disasters.,INFOCOM
+A multiparametric biosensor array for on-chip cell culture with feedback controlled microfluidics.,ISCAS
+Predictive Load Control for Flexible Buffer Allocation.,VLDB
+A novel refractometer architecture.,ISCAS
+Non-uniform Recursive Subdivision Surfaces.,SIGGRAPH
+An Adaptive Hybrid Server Architecture for Client Caching ODBMSs.,VLDB
+Design of robust H<sup>&#8734;</sup> Filters for markovian jump systems with time-varying delays and parametric uncertainties.,ISCAS
+Novel low complexity lattice filters with overflow property close to the normalized lattice.,ISCAS
+Compound noise analysis in digital circuits using blind source separation.,ISCAS
+Expertise networks in online communities: structure and algorithms.,WWW
+Clustering in cooperative networks.,INFOCOM
+A new WiMAX sigma-delta modulator with constant-Q active inductors.,ISCAS
+"A 0.01%THD, 70dB PSRR Single Ended Class D using Variable Hysteresis Control for Headphone Amplifiers.",ISCAS
+LOGML - XML Language for Web Usage Mining.,WWW
+Stack memory design for a low-cost instruction folding Java processor.,ISCAS
+Pixel-Level Image Fusion Scheme based on Linear Algebra.,ISCAS
+Watermarking in Conjugate Ordered Dither Block Truncation Coding Images.,ISCAS
+Scalable IP Lookup for Programmable Routers.,INFOCOM
+Multi-VPN Optimization for Scalable Routing via Relaying.,INFOCOM
+Random Sampling from B+ Trees.,VLDB
+Are Web Services the Next Revolution in e-Commerce? (Panel).,VLDB
+The Nonlinear Class-E Amplifier: A Case Study of Harmonic Balance Applied to Switched Circuits.,ISCAS
+A Mechanism for Managing the Buffer Pool in a Relational Database System Using the Hot Set Model.,VLDB
+On the Use of Destination Set Grouping to Improve Inter-Receiver Fairness for Multicast ABR Sessions.,INFOCOM
+Quality Views: Capturing and Exploiting the User Perspective on Data Quality.,VLDB
+A Network Measurement Architecture for Adaptive Applications.,INFOCOM
+Effective early termination using adaptive search order for frame rate up-conversion.,ISCAS
+Two years of short URLs internet measurement: security threats and countermeasures.,WWW
+Scalable Cycle-Breaking Algorithms for Gigabit Ethernet Backbones.,INFOCOM
+Opportunistic Routing with Congestion Diversity in Wireless Multi-hop Networks.,INFOCOM
+A low-voltage low-noise DC-DC flyback converter with delta-sigma modulation.,ISCAS
+Experimental validation of a novel adaptive controller for piecewise affine systems.,ISCAS
+L-shaped segmentations in motion-compensated prediction of H.264.,ISCAS
+IP Fast ReRoute: Lightweight Not-Via without Additional Addresses.,INFOCOM
+Adapting databases and WebDAV protocol.,WWW
+A robust PRML read channel with digital timing recovery for multi-format optical disc.,ISCAS
+Design considerations and experimental results of continuously-tuned reconfigurable CMOS LNAs.,ISCAS
+Complex Network Measurements: Estimating the Relevance of Observed Properties.,INFOCOM
+On Multi-Column Foreign Key Discovery.,VLDB
+Auditory speech processing for scale-shift covariance and its evaluation in automatic speech recognition.,ISCAS
+A scripting language for Digital Content Creation applications.,SIGGRAPH
+A Framework for Optimal Battery Management for Wireless Nodes.,INFOCOM
+Computation of unstable limit cycles in large-scale power system models.,ISCAS
+A novel CMOS current mode fully differential tanh (x) implementation.,ISCAS
+11 GHz UGBW Op-amp with feed-forward compensation technique.,ISCAS
+Capacitor scaling for low-power design of cyclic analog-to-digital converters.,ISCAS
+Improved Wideband Blind Adaptive System Identification Using Decorrelation Filters for the Localization of Multiple Speakers.,ISCAS
+System Co-Design and Data Management for Flash Devices.,VLDB
+Multimode digital SMPS controller IC for low-power management.,ISCAS
+A Dynamic Frame Sizing Algorithm for CICQ Switches with 100% Throughput.,INFOCOM
+Estimating fluid simulation parameters from videos.,SIGGRAPH
+A novel high-speed and low-power negative voltage level shifter for low voltage applications.,ISCAS
+Design and analysis of skewed-distribution scan chain partition for improved test data compression.,ISCAS
+Per-Flow Queueing by Dynamic Queue Sharing.,INFOCOM
+IP fast ReRoute: Loop Free Alternates revisited.,INFOCOM
+FingerSight&amp;trade;: fingertip control and haptic sensing of the visual environment.,SIGGRAPH
+Surface reconstruction from point set using projection operator.,SIGGRAPH
+"Theory of placement by numDAG related with single-sequence, SP, BSG, and O-tree.",ISCAS
+Radialize: a tool for social listening experience on the web based on radio station programs.,WWW
+"Alhambra: a system for creating, enforcing, and testing browser security policies.",WWW
+Object-Oriented Database Systems.,VLDB
+Modeling the flow and change of information on the web.,WWW
+Photon density estimation using multiple importance sampling.,SIGGRAPH
+Building Usable Menu-Based Natural Language Interfaces To Databases.,VLDB
+Improved content adaptive update weight control in motion-compensated temporal filtering.,ISCAS
+Maximizing Restorable Throughput in MPLS Networks.,INFOCOM
+A 0.18-&micro;m CMOS Squarer Circuit for a Non-Coherent UWB Receiver.,ISCAS
+What's New: Finding Significant Differences in Network Data Streams.,INFOCOM
+Study of near consensus complex social networks using eigen theory.,ISCAS
+Simrank++: query rewriting through link analysis of the clickgraph (poster).,WWW
+Revenue-maximizing pricing and capacity expansion in a many-users regime.,INFOCOM
+Post-placement STI well width adjusting by geometric programming for device mobility enhancement in critical path.,ISCAS
+On the performance of TPC-based STBC coded MIMO-OFDM system over IMT2000 channels.,ISCAS
+Ultrafast Photonic Label Switch for Asynchronous Packets of Variable Length.,INFOCOM
+Low-complexity decision directed method for carrier frequency offset estimation of IEEE 802.11ad.,ISCAS
+NanoProtean: Scalable System Software for a Gigabit Active Router.,INFOCOM
+A Novel Index Supporting High Volume Data Warehouse Insertion.,VLDB
+Business Process Cockpit.,VLDB
+Peer-to-Peer Similarity Search in Metric Spaces.,VLDB
+Supporting Ontology-Based Semantic matching in RDBMS.,VLDB
+A System Architecture Exploration on the Configurable HW/SW Co-design for H.264 Video Decoder.,ISCAS
+Design of Reversible Sequential Elements With Feasibility of Transistor Implementation.,ISCAS
+Utility-Driven Spatiotemporal Sampling Using Mobile Sensors.,INFOCOM
+Live Demonstration: Hardware Platform and Implementation of a Real-time Multi-user MIMO-OFDM Testbed.,ISCAS
+Performance analysis of a correlation-based optical flow algorithm under noisy environments.,ISCAS
+Scalable spatio-temporal knowledge harvesting.,WWW
+Efficient Snapshot Differential Algorithms for Data Warehousing.,VLDB
+High Performance Hardware for Database Systems.,VLDB
+Impact of power-law topology on IP-level routing dynamics: Simulation results.,INFOCOM
+Simple and Efficient k-Coverage Verification without Location Information.,INFOCOM
+Application of frequency-response masking technique to the design of a novel modified-DFT filter bank.,ISCAS
+Computational Interlocking Furniture Assembly,SIGGRAPH
+Distributed graph pattern matching.,WWW
+Orthogonalized Linear Discriminant Analysis based on Modified Generalized Singular Value Decomposition.,ISCAS
+Mobility Reduces Uncertainty in MANETs.,INFOCOM
+Enhanced Subquery Optimizations in Oracle.,VLDB
+Formalization of Database Systems - and a Formal Definition of IMS (Invited Paper).,VLDB
+Model-based matching and hinting of fonts.,SIGGRAPH
+Enhanced SAR ADC energy efficiency from the early reset merged capacitor switching algorithm.,ISCAS
+Low power binary addition using carry increment adders.,ISCAS
+PhotoSketch: a sketch based image query and compositing system.,SIGGRAPH
+Intelligent Rollups in Multidimensional OLAP Data.,VLDB
+Reconfigurable clock polarity assignment for peak current reduction of clock-gated circuits.,ISCAS
+Building a Lifestyle Recommender System.,WWW
+Innovations approach to MMSE waterfilling based equalizers.,ISCAS
+Important Issues in Distributed Data Base Management Systems.,VLDB
+Automatic colorization of grayscale images using multiple images on the web.,SIGGRAPH
+Periscope/SQ: Interactive Exploration of Biological Sequence Databases.,VLDB
+Multi-Terabit/s IP Switching with Guaranteed Service for Streaming Traffic.,INFOCOM
+Relationship Merging in Schema Integration.,VLDB
+A technique for counting DNSSEC validators.,INFOCOM
+Channel allocation in non-cooperative multi-radio multi-channel wireless networks.,INFOCOM
+Resource Allocation for Downlink Statistical Multiuser QoS Provisionings in Cellular Wireless Networks.,INFOCOM
+Benchmarking Spatial Join Operations with Spatial Output.,VLDB
+Data-Sharing Relationships in the Web.,WWW
+Area and Time Efficient Cellular Non-linear Networks.,ISCAS
+Hardware accelerated rendering of antialiasing using a modified a-buffer algorithm.,SIGGRAPH
+Pulse width and position modulation for fully digital audio amplifier.,ISCAS
+A power management architecture for fast per-core DVFS in heterogeneous MPSoCs.,ISCAS
+End User Access to Very Large Databases in an Automated Office/Workstation Environment.,VLDB
+Two-Stage OTA Design Based on Settling-Time Constraints.,ISCAS
+Improved Linear Light Source material reflectance scanning.,SIGGRAPH
+A one-layer recurrent neural network for constrained single-ratio linear fractional programming.,ISCAS
+Complex Queries over Web Repositories.,VLDB
+Is there life after bit error rate or before?,ISCAS
+Towards Semantic Trajectory Data Analysis: A Conceptual and Computational Approach.,VLDB
+Complex Phenomena in SEPIC Converter Based on Sliding Mode Control.,ISCAS
+Optimized QPSK modulator for DVB-S applications.,ISCAS
+"VIRO: A scalable, robust and namespace independent virtual Id routing for future networks.",INFOCOM
+Multiobjective optimization for transistor sizing sub-threshold CMOS logic standard cells.,ISCAS
+A tunable floating gate CMOS resistor for low-power and low-voltage applications.,ISCAS
+Rain removal from dynamic scene based on motion segmentation.,ISCAS
+3D stacking for multi-core architectures: From WIDEIO to distributed caches.,ISCAS
+Affinity rank: a new scheme for efficient web search.,WWW
+Coarse irradiance estimation using curvilinear skeleton.,SIGGRAPH
+Direction-Preserving Trajectory Simplification.,VLDB
+Throughput-Delay Tradeoffs in Large-Scale MANETs with Network Coding.,INFOCOM
+Towards more Informative User Interfaces.,VLDB
+A Normal Form for Abstract Syntax.,VLDB
+Multi-resolution depth-of-field rendering.,SIGGRAPH
+WaveCluster: A Multi-Resolution Clustering Approach for Very Large Spatial Databases.,VLDB
+A CMOS image sensor with focal plane SPIHT image compression.,ISCAS
+GoGetIt!: a tool for generating structure-driven web crawlers.,WWW
+Subthreshold Leakage Reduction: A Comparative Study of SCL and CMOS Design.,ISCAS
+A baseball exploration system using spatial pattern recognition.,ISCAS
+Front Matter.,VLDB
+Visual Web Information Extraction with Lixto.,VLDB
+Data-driven Color Manifolds,SIGGRAPH
+SC filter for RF down conversion with wideband image rejection.,ISCAS
+Spotter: A model based active geolocation service.,INFOCOM
+Linking content in unstructured sources.,WWW
+Current mode multiple-valued adder for cryptography processors.,ISCAS
+A new construction algorithm of visual crytography for gray level images.,ISCAS
+A 5.3GHz low-phase-noise LC VCO with harmonic filtering resistor.,ISCAS
+Fast dynamic reranking in large graphs.,WWW
+45-nm Planar bulk-CMOS 23-GHz LNAs with high-Q above-IC inductors.,ISCAS
+Energy Efficient Scheduling with Individual Packet Delay Constraints.,INFOCOM
+Two birds with one stone: a graph-based framework for disambiguating and tagging people names in web search.,WWW
+Cost-efficient decimal adder design in Quantum-dot cellular automata.,ISCAS
+Power-Controlled Data Prefetching/Caching in Wireless Packet Networks.,INFOCOM
+"Composite Events for Active Databases: Semantics, Contexts and Detection.",VLDB
+Factal: integrating deep web based on trust and relevance.,WWW
+Modeling and predicting behavioral dynamics on the web.,WWW
+Modeling dynamic stability of SRAMS in the presence of single event upsets (SEUs).,ISCAS
+Optimizing Nested Queries with Parameter Sort Orders.,VLDB
+SQL QueRIE Recommendations.,VLDB
+The emerging JPEG-2000 security (JPSEC) standard.,ISCAS
+SlideOR: Online Opportunistic Network Coding in Wireless Mesh Networks.,INFOCOM
+Demonstration of latency reduction in electrical interconnections using optical fanout.,ISCAS
+Distributed Power Control for Cognitive User Access based on Primary Link Control Feedback.,INFOCOM
+User-generated metadata in audio-visual collections.,WWW
+Network utilization: The flow view.,INFOCOM
+GPU-based audio via the VGA port.,SIGGRAPH
+Digitally-controlled RF passive attenuator in 65 nm CMOS for mobile TV tuner ICs.,ISCAS
+Energy-Efficient Interference-Based Routing for Multi-Hop Wireless Networks.,INFOCOM
+Illuminating the Dark Side of Web Services.,VLDB
+Adaptive Data Structures for IP Lookups.,INFOCOM
+An improved read/write scheme for anchorless NEMS-CMOS non-volatile memory.,ISCAS
+A Survey of Tensor Methods.,ISCAS
+Optimization Based Rate Control for Multicast with Network Coding.,INFOCOM
+Teaching animation in computer science.,SIGGRAPH
+Compressing and searching XML data via two zips.,WWW
+Exploring the trade-off between label size and stack depth in MPLS Routing.,INFOCOM
+High quality previewing of shading and lighting for Killzone3.,SIGGRAPH
+Design methodology of multistage time-domain logic speculation circuits.,ISCAS
+Non-uniform random membership management in peer-to-peer networks.,INFOCOM
+Reduced-size ultra-wideband true-time-delay beam-forming receivers.,ISCAS
+Surface motion graphs for character animation from 3D video.,SIGGRAPH
+Efficient Processing of k Nearest Neighbor Joins using MapReduce.,VLDB
+The Entity Join.,VLDB
+Modeling/predicting the evolution trend of osn-based applications.,WWW
+Analyzing web page headings considering various presentation.,WWW
+An Autonomic Intrusion Detection System Based on Behavioral Network Engineering.,INFOCOM
+Finite switching frequency effects in the sliding mode control of the double integrator system.,ISCAS
+High-Dimensional OLAP: A Minimal Cubing Approach.,VLDB
+ECG Cancellation for Surface Electromyography Measurement Using Independent Component Analysis.,ISCAS
+Extended counting ADC for 32-channel neural recording headstage for small animals.,ISCAS
+Resource control for loss-sensitive traffic in CDMA networks.,INFOCOM
+DF-DICE: a scalable solution for soft error tolerant circuit design.,ISCAS
+Co-browsing dynamic web pages.,WWW
+"A rail to rail, slew-boosted pre-charge buffer.",ISCAS
+Structural analysis of Petri nets with batch processing arcs.,ISCAS
+An uncoded BER comparison between DFE-SCCP and OFDM using a convex analysis framework.,ISCAS
+Routing Fairness in Chord: Analysis and Enhancement.,INFOCOM
+Combining classification with clustering for web person disambiguation.,WWW
+Distilling Superior Peers in Large-Scale P2P Streaming Systems.,INFOCOM
+Early termination schemes for fast intra mode decision in High Efficiency Video Coding.,ISCAS
+An improved SAR controller for DLL applications.,ISCAS
+"Full-text search in email archives using social evaluation, attached and linked resources.",WWW
+A single-chip audio system with delta-sigma DAC and class-D amplifier.,ISCAS
+Low-voltage self-oscillating class E electronic ballast for fluorescent lamps.,ISCAS
+Robust wide range of supply-voltage operation using continuous adaptive size-ratio gates.,ISCAS
+ZoomRDF: semantic fisheye zooming on RDF data.,WWW
+Architecture and Abstractions for Environment and Traffic Aware System-Level Coordination of Wireless Networks: The Downlink Case.,INFOCOM
+GalaTex: a conformant implementation of the XQuery full-text language.,WWW
+Fast mode selection to reduce the encoding complexity of H.264/AVC.,ISCAS
+A Pulse-based Amplifier and Data Converter for Bio-potentials.,ISCAS
+Efficient multicasting approaches using collection-distribution networks.,INFOCOM
+On The Satisfiability of Dependency Constraints in Entity-Relationship Schemata.,VLDB
+Per-survivor processing Viterbi decoder for Bluetooth applications.,ISCAS
+Joint Congestion Control and OFDMA Scheduling for Hybrid Wireline-Wireless Networks.,INFOCOM
+A SMIL-based Real-Time Interactive Sharing System for Distance Learning.,WWW
+Mode dependent deblocking filter for video coding.,ISCAS
+Mapping channel estimation and MIMO detection in LTE-advanced on a reconfigurable cell array.,ISCAS
+"Building Structured Web Community Portals: A Top-Down, Compositional, and Incremental Approach.",VLDB
+Efficiently Linking Text Documents with Relevant Structured Information.,VLDB
+APT: Accurate outdoor pedestrian tracking with smartphones.,INFOCOM
+A Novel Low Power Hybrid Loop Filter for Continuous-time Sigma-delta Modulators.,ISCAS
+Visualizing the Internet: putting the user in the driver's seat (panel session).,SIGGRAPH
+Towards Automated Performance Tuning for Complex Workloads.,VLDB
+A 10 Gb/s optical receiver in 0.25 &micro;m silicon-on-sapphire CMOS.,ISCAS
+An Integrated Switching Power Converter with a Hybrid Pulse-Train/PWM Control.,ISCAS
+Oracle8i Index-Organized Table and Its Application to New Domains.,VLDB
+On the Timing Uncertainty in Delay-Line-based Time Measurement Applications Targeting FPGAs.,ISCAS
+Data Sharing Analysis for a Database Programming Lanaguage via Abstract Interpretation.,VLDB
+Ranking the web frontier.,WWW
+Incremental Bloom Filters.,INFOCOM
+A Fully Programmable Analog Window Comparator.,ISCAS
+Answering order-based queries over XML data.,WWW
+Stochastic Ordering for Internet Congestion Control and its Applications.,INFOCOM
+Deployment optimization of sensornet-based stochastic location-detection systems.,INFOCOM
+High level spectral-based analysis of power consumption in DSPs systems.,ISCAS
+Development of a Multimedia Information System for an Office Environment.,VLDB
+Towards intent-driven bidterm suggestion.,WWW
+1.5-V 900-&micro;W 40-dB CMOS variable gain amplifier.,ISCAS
+Scheduling data collection with dynamic traffic patterns in wireless sensor networks.,INFOCOM
+Leo: a system for cost effective 3D shaded graphics.,SIGGRAPH
+Sonic: night of the werehog.,SIGGRAPH
+Behavioral macromodeling of analog LSI implementation for automobile intake system.,ISCAS
+Limit Cycle Control and Its Application to the Animation of Balancing and Walking.,SIGGRAPH
+Special habitation.,SIGGRAPH
+Maximizing lifetime for the shortest path aggregation tree in wireless sensor networks.,INFOCOM
+Robust web content extraction.,WWW
+Fighting Spam with the NeighborhoodWatch DHT.,INFOCOM
+Repeating History Beyond ARIES.,VLDB
+Understanding user's query intent with wikipedia.,WWW
+The SphereSearch Engine for Unified Ranked Retrieval of Heterogeneous XML and Web Documents.,VLDB
+Error-bounded antialiased rendering of complex environments.,SIGGRAPH
+Agnostic topology-based spam avoidance in large-scale web crawls.,INFOCOM
+A New Output-Sensitive Algorithm to Detect and Resolve Conflicts in Internet Router Tables.,INFOCOM
+"Composable, Scalable, and Accurate Weight Summarization of Unaggregated Data Sets.",VLDB
+Dishes.,SIGGRAPH
+Argument Reduction by Factoring.,VLDB
+Threshold Key-Establishment in Distributed Sensor Networks Using a Multivariate Scheme.,INFOCOM
+An axon emulator for evaluation of nerve recording systems.,ISCAS
+RoadRunner: Towards Automatic Data Extraction from Large Web Sites.,VLDB
+A novel method to detect bad data injection attack in smart grid.,INFOCOM
+Log-likelihood ratio algorithm for rate compatible modulation.,ISCAS
+The Impact of New Technologies on the Architecture of Secondary Storage and Large Data Bases.,VLDB
+Cross-Layer Survivability in WDM-Based Networks.,INFOCOM
+ATLAS: An adaptively formed hierarchical cell library based analog synthesis framework.,ISCAS
+Towards second and third generation web-based multimedia.,WWW
+New Recursive Adaptive Beamforming Algorithms for Uniform Concentric Spherical Arrays with Frequency Invariant Characteristics.,ISCAS
+A Routing Scheme for Content-Based Networking.,INFOCOM
+A codesign synthesis from an MPEG-4 decoder dataflow description.,ISCAS
+Direct control on modulation spectrum for noise-robust speech recognition and spectral subtraction.,ISCAS
+Amplitude modulation based on time-varying forced function of second-order oscillator circuit.,ISCAS
+EagleTree: Exploring the Design Space of SSD-Based Algorithms.,VLDB
+Towards practical genre classification of web documents.,WWW
+Office voodoo: a real-time editing engine for an algorithmic sitcom.,SIGGRAPH
+A Relational Database View Update Translation Mechanism.,VLDB
+Design of process variation tolerant radio frequency low noise amplifier.,ISCAS
+"Can we get there from here? Current challenges in cloth design, modeling and animation (panel).",SIGGRAPH
+MDVA: A Distance-Vector Multipath Routing Protocol.,INFOCOM
+Chaotic Maps as Parsimonious Bit Error Models of Wireless Channels.,INFOCOM
+Variability-Aware Synthesis for Wideband Low Noise Amplifiers.,ISCAS
+A measurement study of Internet bottlenecks.,INFOCOM
+A novel LNA-mixer design with on-chip balun.,ISCAS
+Modeling relationship strength in online social networks.,WWW
+KAGEO.,SIGGRAPH
+On Graph Query Optimization in Large Networks.,VLDB
+Senbazuru: A Prototype Spreadsheet Database Management System.,VLDB
+Runtime implementation of modular radiance transfer.,SIGGRAPH
+A delay generation technique for fast-locking frequency synthesizers.,ISCAS
+Efficient Data Transfer Techniques and VLSI architecture for DWT-Block Coder Integration of JPEG2000 Encoder.,ISCAS
+Shadow Prices vs. Vickrey Prices in Multipath Routing.,INFOCOM
+On-the-fly Progress Detection in Iterative Stream Queries.,VLDB
+Algorithms and the artist (panel session).,SIGGRAPH
+Sheaf on sheet: a concept of tangible interface for browsing on a flexible e-paper.,SIGGRAPH
+Can the Elephants Handle the NoSQL Onslaught?,VLDB
+Iterative Training Of Dynamic Skills Inspired By Human Coaching Techniques,SIGGRAPH
+A Markov chain model for coarse timescale channel variation in an 802.16e wireless network.,INFOCOM
+A &#916;&#931; ADC for low power sensor applications.,ISCAS
+TP-CRAHN: a Transport Protocol for Cognitive Radio Ad-Hoc Networks.,INFOCOM
+Extended free-form deformation: a sculpturing tool for 3D geometric modeling.,SIGGRAPH
+A Tractable and Accurate Cross-Layer Model for Multi-Hop MIMO Networks.,INFOCOM
+Packet Pacing in Short Buffer Optical Packet Switched Networks.,INFOCOM
+3D facial animation from high speed video.,SIGGRAPH
+Synchronization of multihop ad hoc networks using connected dominating sets.,ISCAS
+"Distributed rate allocation for inelastic flows: optimization frameworks, optimality conditions, and optimal algorithms.",INFOCOM
+"3D graphics through the Internet - a ""shoot-out"" (panel session).",SIGGRAPH
+Programmable voltage-to-current converter with linear voltage control resistor.,ISCAS
+A novel method to count the red blood cells in thin blood films.,ISCAS
+Interactive Multiresolution Surface Viewing.,SIGGRAPH
+Entire topography of lunar surface.,SIGGRAPH
+Letter from the VLDB2011 General PC Co-Chair.,VLDB
+D-Scan: Enabling Fast and Smooth Handoffs in AP-Dense 802.11 Wireless Networks.,INFOCOM
+Light field copy machine.,SIGGRAPH
+Data Structures for an Integrated Data Base Management and Information Retrieval System.,VLDB
+Factorizing personalized Markov chains for next-basket recommendation.,WWW
+High Efficiency Architecture of ESCOT with Word-Level Pass Concurrent Context Modeling Scheme for SVC.,ISCAS
+Movement-Assisted Sensor Deployment.,INFOCOM
+Achieving High Output Quality under Limited Resources through Structure-based Spilling in XML Streams.,VLDB
+Challenges and Experience in Prototyping a Multi-Modal Stream Analytic and Monitoring Application on System S.,VLDB
+Impacts of NBTI and PBTI on Power-gated SRAM with High-k Metal-gate Devices.,ISCAS
+Xplus: A SQL-Tuning-Aware Query Optimizer.,VLDB
+Ad-Hoc Localization Using Ranging and Sectoring.,INFOCOM
+Quotient Cube: How to Summarize the Semantics of a Data Cube.,VLDB
+Bit-depth expansion by adaptive filter.,ISCAS
+Document Classification using Nonnegative Matrix Factorization and Underapproximation.,ISCAS
+Green-i: an interactive reusable brochure paper for eco-touring.,SIGGRAPH
+Thumbs-up: a game for playing to rank search results.,WWW
+Automated interior design from A to Z.,SIGGRAPH
+State-Dependent Proportional Fair Scheduling Algorithms for Wireless Forward Link Data Services.,INFOCOM
+A Parallel Architecture for Hermitian Decoders: Satisfying Resource and Throughput Constraints.,ISCAS
+A hexagonal Field Programmable Analog Array consisting of 55 digitally tunable OTAs.,ISCAS
+Extracting news-related queries from web query log.,WWW
+Parametric Query Optimization for Linear and Piecewise Linear Cost Functions.,VLDB
+The VolumePro Real-Time Ray-Casting System.,SIGGRAPH
+Cross-Layer Quality of Service Support for UWB Wireless Multimedia Sensor Networks.,INFOCOM
+A privacy-preserving social-assisted mobile content dissemination scheme in DTNs.,INFOCOM
+Operation of class DE amplifier outside optimum condition.,ISCAS
+Higher order convergent algorithms with applications to polynomials and matrices.,ISCAS
+VBS: Maximum Lifetime Sleep Scheduling for Wireless Sensor Networks Using Virtual Backbones.,INFOCOM
+A 372 ps 64-bit adder using fast pull-up logic in 0.18&micro;m CMOS.,ISCAS
+On the efficiency of collaborative caching in ISP-aware P2P networks.,INFOCOM
+Fully automatic wrapper generation for search engines.,WWW
+Computer-generated pen-and-ink illustration of trees.,SIGGRAPH
+Voltage-mode quaternary FPGAs: An evaluation of interconnections.,ISCAS
+"Direct, spatial, and dexterous interaction with see-through 3D desktop.",SIGGRAPH
+netBody.,SIGGRAPH
+"Towards a transparent, flexible, scalable, and disposable image sensor.",SIGGRAPH
+SQLB: A Query Allocation Framework for Autonomous Consumers and Providers.,VLDB
+Browsing fatigue in handhelds: semantic bookmarking spells relief.,WWW
+Architectural Issues in Distributed Data Base Systems.,VLDB
+Evaluating a new approach to strong web cache consistency with snapshots of collected content.,WWW
+Toward a Design Methodology for DBMS: A Software Engineering Approach.,VLDB
+File diffusion in a dynamic peer-to-peer network.,WWW
+Web video topic discovery and tracking via bipartite graph reinforcement model.,WWW
+Standardization and the Relational Approach to Databases: An ANSI Task Group Status Report.,VLDB
+Impact of a sleep schedule on the AODV convergence time in WSNs.,INFOCOM
+Harnessing Internet topological stability in Thorup-Zwick compact routing.,INFOCOM
+Dynamic Control of Coding in Delay Tolerant Networks.,INFOCOM
+A micropower comparator for high power-efficiency hearing aid class D amplifiers.,ISCAS
+High-performance spatial indexing for location-based services.,WWW
+The Buddy-Tree: An Efficient and Robust Access Method for Spatial Data Base Systems.,VLDB
+On the Wavelength Assignment Problem in Multifiber WDM Star and Ring Networks.,INFOCOM
+A new algorithm for compressive sensing based on total-variation norm.,ISCAS
+Talisman: Commodity Realtime 3D Graphics for the PC.,SIGGRAPH
+"14-bit DR, 20 kHz BW, 2-2 MASH SI-&#931; modulator using low-distortion feedforward topology.",ISCAS
+Device Neutral Pipelined Processing of XML Documents.,WWW
+The squash-and-stretch filter for character animation.,SIGGRAPH
+Compass tilt compensation algorithm using CORDIC.,ISCAS
+A Low Power Current Reused Quadrature VCO for Biomedical Applications.,ISCAS
+Smoothing the energy consumption: Peak demand reduction in smart grid.,INFOCOM
+Extracting key terms from noisy and multitheme documents.,WWW
+A Multimedia Office Filing System.,VLDB
+Improving energy efficiency of functional units by exploiting their data-dependent latency.,ISCAS
+Flexible Database Generators.,VLDB
+Dimensioning an OBS Switch with Partial Wavelength Conversion and Fiber Delay Lines via a Mean Field Model.,INFOCOM
+Item-based collaborative filtering recommendation algorithms.,WWW
+On superposition of heterogeneous edge processes in dynamic random graphs.,INFOCOM
+A Semantic Model for Data Base Protection Languages.,VLDB
+Deformable curve and surface finite-elements for free-form shape design.,SIGGRAPH
+View Invalidation for Dynamic Content Caching in Multitiered Architectures.,VLDB
+Localized minimum-energy broadcasting in ad-hoc networks.,INFOCOM
+Probabilistic End-to-End Delay Bounds for Earliest Deadline First Scheduling.,INFOCOM
+Optimizing Queries on Compressed Bitmaps.,VLDB
+"Randomizing, A Practical Method for Protecting Statistical Databases Against Compromise.",VLDB
+A 65nm 10GHz pipelined MAC structure.,ISCAS
+Measurement-Based Multipath Multicast.,INFOCOM
+Demand-driven Service Differentiation in Cluster-based Network Servers.,INFOCOM
+Towards omnidirectional passive human detection.,INFOCOM
+Digital Filter Design Optimization using Partial Cost Functions.,ISCAS
+Rank aggregation methods for the Web.,WWW
+Broadband capacitive sensor CMOS interface circuit for dielectric spectroscopy.,ISCAS
+High-speed differential resistor ladder for A/D converters.,ISCAS
+A generic framework for throughput-optimal control in MR-MC wireless networks.,INFOCOM
+Overhearing-aware Joint Routing and Rate Selection in Multi-hop Multi-rate UWB-based WPANs.,INFOCOM
+Algorithmic Solution to Second-order Fluid Flow.,INFOCOM
+Simulating massive dust in <i>Megamind</i>.,SIGGRAPH
+Upgrading relational legacy data to the semantic web.,WWW
+Segmenting specific object based on logo detection.,ISCAS
+Modeling and verification of high-speed wired links with Verilog-AMS.,ISCAS
+Fast global motion estimation based on iteration least-square estimation with sustained symmetrical structure.,ISCAS
+Low-power and low-latency cluster topology for local traffic NoCs.,ISCAS
+Understanding Web Searching &amp; Navigation Patterns.,WWW
+GraphDB: Modeling and Querying Graphs in Databases.,VLDB
+Data dissemination bounds in people-centric systems.,INFOCOM
+Fast low power translation lookaside buffers using hierarchical NAND match lines.,ISCAS
+Scalable Progressive Analytics on Big Data in the Cloud.,VLDB
+Purely URL-based topic classification.,WWW
+HyperANF: approximating the neighbourhood function of very large graphs on a budget.,WWW
+The use of XML to express a historical knowledge base.,WWW
+Improving understanding of website privacy policies with fine-grained policy anchors.,WWW
+Dependency isolation for thread-based multi-tier Internet services.,INFOCOM
+A comparison of case-based reasoning approaches.,WWW
+Engineering Semantic Web Information Systems in Hera.,WWW
+Main-Memory Operation Buffering for Efficient R-Tree Update.,VLDB
+A New High-Speed Class-AB Current-Mode Circuit.,ISCAS
+"Design, implementation, and evaluation of a client characterization driven web server.",WWW
+Experiences of Technology Enhanced Learning: What Went Wrong?,WWW
+A survey of public web services.,WWW
+Understanding Sub-stream Scheduling in P2P Hybrid Live Streaming Systems.,INFOCOM
+Threshold selection for web-page classification with highly skewed class distribution.,WWW
+Modelling Non Deterministic Queries and Updates in Deductive Databases.,VLDB
+Proportionate affine projection algorithms from a basis pursuit perspective.,ISCAS
+Design galleries: a general approach to setting parameters for computer graphics and animation.,SIGGRAPH
+Video noise reduction in the wavelet domain using temporal decorrelation and adaptive thresholding.,ISCAS
+How to split a flow?,INFOCOM
+Reliable Routing with QoS Guarantees for Multi-Domain IP/MPLS Networks.,INFOCOM
+Static and Dynamic Analysis of the Internet's Susceptibility to Faults and Attacks.,INFOCOM
+Certified Electronic Mail Protocol Resistant to a Minority of Malicious Third Parties.,INFOCOM
+An Efficient Identification Algorithm for FIR Filtering with Noisy Data.,ISCAS
+"Low-cost, low-power and high-throughput BCH decoder for NAND Flash Memory.",ISCAS
+Information propagation speed in bidirectional vehicular delay tolerant networks.,INFOCOM
+Milgram-routing in social networks.,WWW
+Subdivision Schemes for Fluid Flow.,SIGGRAPH
+Efficiently Compiling Efficient Query Plans for Modern Hardware.,VLDB
+RDCM: Reliable data center multicast.,INFOCOM
+Dehazing using Color-Lines,SIGGRAPH
+On the scaling laws of Multi-modal Wireless Sensor Networks.,INFOCOM
+Flexible Query Processor on FPGAs.,VLDB
+On the Age of Pseudonyms in Mobile Ad Hoc Networks.,INFOCOM
+A statistical approach for target counting in sensor-based surveillance systems.,INFOCOM
+Adaptive projected subgradient method and its applications to robust signal processing.,ISCAS
+True 3D display.,SIGGRAPH
+Minimizing data collection latency in wireless sensor network with multiple mobile elements.,INFOCOM
+A framework for fast design space exploration using fuzzy search for VLSI computing Architectures.,ISCAS
+Computing semantic relatedness from human navigational paths on Wikipedia.,WWW
+Letter from the VLDB 2011 Proceedings Chair.,VLDB
+An area-efficient shuffling scheme for AES implementation on FPGA.,ISCAS
+CachePortal II: Acceleration of Very Large Scale Data Center-Hosted Database-driven Web Applications.,VLDB
+Keyframe control of cumulus cloud simulation.,SIGGRAPH
+Safe Referential Structures in Relational Databases.,VLDB
+A novel analytical model for electronic and optical switches with shared buffer.,INFOCOM
+The language observatory project (LOP).,WWW
+On automated composition for web services.,WWW
+A Data Modeling Approach to Simplify the Design of User Interfaces.,VLDB
+A motion compensation system with a high efficiency reference frame pre-fetch scheme for QFHD H.264/AVC decoding.,ISCAS
+Effective animation of sign language with prosodic elements for annotation of digital educational content.,SIGGRAPH
+Toward P2P-based multimedia sharing in user generated contents.,INFOCOM
+Live 3D video in soccer stadium.,SIGGRAPH
+Double-sampled cascaded sigma-delta modulator topologies for low oversampling ratios.,ISCAS
+Point-Casting Service in Wireless Networks.,INFOCOM
+Impact of battery degradation on optimal management policies of harvesting-based wireless sensor devices.,INFOCOM
+An adaptive bandwidth reduction scheme for video coding.,ISCAS
+Hardware-efficient parallel FIR digital filter structures for symmetric convolutions.,ISCAS
+Location Discovery Using Data-Driven Statistical Error Modeling.,INFOCOM
+Evaluating Mobility Pattern Space Routing for DTNs.,INFOCOM
+An On-demand QoS Routing Protocol for Mobile Ad Hoc Networks.,INFOCOM
+Dynamic Guard Bandwidth Scheme for Wireless Broadband Networks.,INFOCOM
+From user-centric web traffic data to usage data.,WWW
+Resource Aware Middleware Services Over MANETs.,INFOCOM
+60 GHz meta-material wideband antenna for FPGA Giga bit data transmission.,ISCAS
+Fast PDA Synchronization Using Characteristic Polynomial Interpolation.,INFOCOM
+Least squares-based lossless image coding with edge-look-ahead.,ISCAS
+A 30GHz 155Mbit/s self-calibrating direct transmitter.,ISCAS
+Design of 4 &times; 4 MIMO-OFDMA receiver with precode codebook search for 3GPP-LTE.,ISCAS
+Statistics on Views.,VLDB
+Hardware-efficient VLSI implementation for 3-parallel linear-phase FIR digital filter of odd length.,ISCAS
+nioi caf&amp;eacute;: olfactory display system with visual feedback.,SIGGRAPH
+TwitterEcho: a distributed focused crawler to support open research with twitter data.,WWW
+Geo/Environmental and Medical Data Management in the RasDaMan System.,VLDB
+P-TAG: large scale automatic generation of personalized annotation tags for the web.,WWW
+Recognizing Exponential Inter-Contact Time in VANETs.,INFOCOM
+"A 3.7mW, 1.6V CMOS Analog Adaptive Equalizer for a 125Mbps Wire-Line Transceiver.",ISCAS
+PCCD: parallel continuous collision detection.,SIGGRAPH
+Maintaining Approximate Minimum Steiner Tree and k-center for Mobile Agents in a Sensor Network.,INFOCOM
+Speech and multimodal interaction in mobile search.,WWW
+A Low-Noise Preamplifier with Adjustable Gain and Bandwidth for Biopotential Recording Applications.,ISCAS
+Optimal ISP subscription for Internet multihoming: algorithm design and implication analysis.,INFOCOM
+A flexible dialogue system for enhancing web usability.,WWW
+Characterizing end-host application performance across multiple networking environments.,INFOCOM
+Simulating painted appearance of BTF materials.,SIGGRAPH
+Telenoid: tele-presence android for communication.,SIGGRAPH
+Augmenting semantic web service descriptions with compositional specification.,WWW
+Retrieval of motion capture data based on short-term feature extraction.,SIGGRAPH
+Pricing strategies for user-provided connectivity services.,INFOCOM
+Simple and Realistic Data Generation.,VLDB
+Topology identification of an uncertain general complex dynamical network.,ISCAS
+BiToS: Enhancing BitTorrent for Supporting Streaming Applications.,INFOCOM
+Toward a psychophysically-based light reflection model for image synthesis.,SIGGRAPH
+Implementation Strategies for the Census Data Base.,VLDB
+Birds-eye view ray scan system for flatbed autostereoscopic displays.,SIGGRAPH
+Understanding Insights into the Basic Structure and Essential Issues of Table Placement Methods in Clusters.,VLDB
+A continuous-time band-pass Sigma Delta modulator implemented in 0.35&micro;m BiCMOS using transmission lines.,ISCAS
+Extendable point-to-multi-point protocol processor for 10G-EPON MAC SoCs.,ISCAS
+Egress Admission Control.,INFOCOM
+Design of IIR allpass fractional-delay fractional Hilbert transformer using complex cepstrum.,ISCAS
+A High Performance Linear Current Mode Image Sensor.,ISCAS
+Structured Materialized Views for XML Queries.,VLDB
+Load Balancing in Large-Scale RFID Systems.,INFOCOM
+Big Data and Cloud Computing: New Wine or just New Bottles?.,VLDB
+Real time operating system modeling in a system level design environment.,ISCAS
+An efficient blind fine synchronization scheme for SCBT systems.,ISCAS
+Efficient search engine measurements.,WWW
+Gate-level dual-threshold static power optimization methodology (GDSPOM) for designing high-speed low-power SOC applications using 90nm MTCMOS technology.,ISCAS
+Non-Delaunay hierarchical mesh-based motion estimation and compensation for Wavelet Video coding.,ISCAS
+Step-response Optimization Techniques for Low-power Three-stage Operational Amplifiers for Large Capacitive Load Applications.,ISCAS
+Constructing multi-granular and topic-focused web site maps.,WWW
+A Real-time E-Marketplace System for Advertising Opportunities on Datacasting.,WWW
+Robust Distributed Top-N Frequent Pattern Mining Using the SAP BW Accelerator.,VLDB
+Improving static and dynamic registration in an optical see-through HMD.,SIGGRAPH
+A publish and subscribe collaboration architecture for web-based information.,WWW
+RapidRAID: Pipelined erasure codes for fast data archival in distributed storage systems.,INFOCOM
+The LEBONED Metadata Architecture.,WWW
+Eclipse Attacks on Overlay Networks: Threats and Defenses.,INFOCOM
+Sparse linear methods with side information for Top-N recommendations.,WWW
+A comparative study of two network-based anomaly detection methods.,INFOCOM
+Integrated Heterogenous Modelling for Power Estimation of Single Processor based Reconfigurable SoC Platform.,ISCAS
+A novel truncated squarer with linear compensation function.,ISCAS
+Request-Aware Scheduling for Busy Internet Services.,INFOCOM
+Handling network uncertainty in heterogeneous wireless networks.,INFOCOM
+Binary Increase Congestion Control (BIC) for Fast Long-Distance Networks.,INFOCOM
+Are search engine users equally reliable?,WWW
+Pipelined FPGA design of the Goertzel algorithm for exon prediction.,ISCAS
+Smart Miner: a new framework for mining large scale web usage data.,WWW
+"Comments on the Paper ""Data Base Design in Theory and Practice"".",VLDB
+Efficient Recovery of Missing Events.,VLDB
+TurboSync: Clock synchronization for shared media networks via principal component analysis with missing data.,INFOCOM
+Speccast.,INFOCOM
+The Impact of Virtual Views on Containment.,VLDB
+Quantifying the Importance of Vantage Points Distribution in Internet Topology Measurements.,INFOCOM
+Energy optimal control for time varying wireless networks.,INFOCOM
+Floorplan-aware hierarchical NoC topology with GALS interfaces.,ISCAS
+Power dynamics in spoken interactions: a case study on 2012 republican primary debates.,WWW
+Audio Watermarking Based on Statistical Feature in Wavelet Domain.,WWW
+"A straightforward approach of Automatic Parking System - ""Training-Recording-Play back"".",ISCAS
+"Mining, indexing, and searching for textual chemical molecule information on the web.",WWW
+POIKILO: A Tool for Evaluating the Results of Diversification Models and Algorithms.,VLDB
+Bitlist: New Full-text Index for Low Space Cost and Efficient Keyword Search.,VLDB
+MOVE CLICK MOVE: creating an animation DVD.,SIGGRAPH
+Database Management in the Year 2000: Projections and Star Gazing (Panel).,VLDB
+Dynamic ambient occlusion from volumetric proxies.,SIGGRAPH
+Location privacy protection from RSS localization system using antenna pattern synthesis.,INFOCOM
+Global Clock Synchronization in Sensor Networks.,INFOCOM
+Exploring in the weblog space by detecting informative and affective articles.,WWW
+A novel sigma-delta fractional-N synthesizer architecture with fractional spur and quantization noise cancellation.,ISCAS
+New LC oscillator topology in CMOS 0.18&micro;m technology.,ISCAS
+gModeler.com.,SIGGRAPH
+Love_Child.,SIGGRAPH
+Augmented reality for air traffic control towers.,SIGGRAPH
+Heavy tailed M/G/1-PS queues with impatience and admission control in packet networks.,INFOCOM
+Orthonormal eigenvectors of the DFT-IV matrix by the eigenanalysis of a nearly tridiagonal matrix.,ISCAS
+EvalIris - A Web Service for Web Accessibility Evaluation.,WWW
+Data gathering for a culture specific approach in MIR.,WWW
+Automatically generating labels based on unified click model.,WWW
+Design and Implementation of Semantic Web Applications.,WWW
+A signal perturbation free semi-blind MRT MIMO channel estimation approach.,ISCAS
+An approach for joint blind space-time equalization and DOA estimation.,ISCAS
+High level specification of embedded listeners for monitoring of Network-on-Chips.,ISCAS
+New developments in color image tampering detection.,ISCAS
+On the three-dimensional orthogonal drawing of series-parallel graphs (extended abstract).,ISCAS
+Program Analysis for Conversion from a Navigation to a Specification Database Interface.,VLDB
+Efficient multidimensional sampling scheme for Fourier transform estimation.,ISCAS
+An enhanced switching policy for buck-derived multi-level switching power amplifiers.,ISCAS
+The linked data platform (LDP).,WWW
+A Decade of Progress in Indexing and Mining Large Time Series Databases.,VLDB
+"A low-power, high-speed RB-to-NB converter for fast redundant binary multiplier.",ISCAS
+CASL hypervisor and its virtualization platform.,ISCAS
+Using Referential Integrity To Easily Define Consistent Subset Replicas.,VLDB
+A precedence effect based far-field DoA estimation algorithm.,ISCAS
+Providing Database Migration Tools - A Practicioner's Approach.,VLDB
+Tom n Jerry.,SIGGRAPH
+Light field mapping: efficient representation and hardware rendering of surface light fields.,SIGGRAPH
+Reconfigurable Clock Distribution Circuitry.,ISCAS
+To preempt or not: Tackling bid and time-based cheating in online spectrum auctions.,INFOCOM
+Can I find what I'm looking for?,WWW
+On two-directional orthogonal ray graphs.,ISCAS
+Cross-lingual web spam classification.,WWW
+Frequency-response Masking based Filter Bank for QRS Dection in Wearable Biomedical Devices.,ISCAS
+Russian web spam evolution: yandex experience.,WWW
+MapInfo SpatialWare: A Spatial Information Server for RDBMS.,VLDB
+Content-aware write reduction mechanism of phase-change RAM based Frame Store in H.264 Video codec system.,ISCAS
+A Game-Theoretic Analysis of QoS in Wireless MAC.,INFOCOM
+PVT-invariant single-to-differential data converter with minimum skew and duty-ratio distortion.,ISCAS
+SoCo: a social network aided context-aware recommender system.,WWW
+Edge-preserving self-healing: Keeping network backbones densely connected.,INFOCOM
+"PULSE, a Flexible P2P Live Streaming System.",INFOCOM
+The Speech Recogniton System based on Structure Equivalent Fuzzy RBF Neural Network.,ISCAS
+Detecting soft errors by redirection classification.,WWW
+Information cascades in social media in response to a crisis: a preliminary model and a case study.,WWW
+PIQL: Success-Tolerant Query Processing in the Cloud.,VLDB
+Is random walk truly memoryless - Traffic analysis and source location privacy under random walks.,INFOCOM
+Locking Protocols for Materialized Aggregate Join Views.,VLDB
+Velocity saturation current-mode CMOS imaging sensor.,ISCAS
+Pointshop 3D: an interactive system for point-based surface editing.,SIGGRAPH
+GPU-enabled parallel processing for image halftoning applications.,ISCAS
+Unified Quadratic Programming Approach For 3-D Mixed Mode Placement.,ISCAS
+A 14V-output adaptive-off-time boost converter with quasi-fixed-frequency in full loading range.,ISCAS
+A 1-V 100-dB dynamic range 24.4-kHz bandwidth delta-sigma modulator.,ISCAS
+Algorithms for generation of quaternary fixed polarity arithmetic spectra.,ISCAS
+Visual simulation of bleeding on skin surface.,SIGGRAPH
+The Use of Information Capacity in Schema Integration and Translation.,VLDB
+An Automated Algorithm to Generate Stream Programs.,ISCAS
+Skeleton-based cartoon hair modeling using blobby model.,SIGGRAPH
+r-Kernel: An operating system foundation for highly reliable networked embedded systems.,INFOCOM
+"MusicSpace: you ""play"" the music.",SIGGRAPH
+A multibit continuous time sigma delta modulator with successive-approximation quantizer.,ISCAS
+On the Queueing Analysis of Dispersed Periodic Messages.,INFOCOM
+Implementation of a motion sickness evaluation system based on EEG spectrum analysis.,ISCAS
+Differentiated bandwidth sharing with disparate flow sizes.,INFOCOM
+10Gbit/s 2mW inductorless transimpedance amplifier.,ISCAS
+Revisiting the k-means algorithm for fast trajectory segmentation.,SIGGRAPH
+Entity Resolution with Evolving Rules.,VLDB
+"A 7.5mW, 11-bit continuous-time sigma-delta A/D converter for WLAN applications.",ISCAS
+Gossip based streaming.,WWW
+Query Languages and Data Models for Database Sequences and Data Streams.,VLDB
+International workshop on question answering on the web (QAWeb2008).,WWW
+Minimum camera barrier coverage in wireless camera sensor networks.,INFOCOM
+Beamforming MIMO Receiver with Reduced Hardware Complexity.,ISCAS
+Private Analysis of Graph Structure.,VLDB
+"A Fourth-order, Audio-bandwidth, 87.5-dB SNDR SigmaDelta Modulator for MEMS Microphones.",ISCAS
+Secret communication in large wireless networks without eavesdropper location information.,INFOCOM
+Visualization of Geo-annotated pictures in mobile phones.,WWW
+An admission control scheme for predictable server response time for web accesses.,WWW
+Generating XML structure using examples and constraints.,VLDB
+Taming user-generated content in mobile networks via Drop Zones.,INFOCOM
+Ubiquitous data collection for mobile users in wireless sensor networks.,INFOCOM
+A Precompensation Algorithm for PWM-Based Digital Audio Amplifiers for Portable Applications.,ISCAS
+Hybrid image interpolation with soft-decision kernel regression.,ISCAS
+Scalable Modulation for Scalable Wireless Videocast.,INFOCOM
+Composing better pictures in MDC: A multi-target total variational approach.,ISCAS
+An effective class-centroid-based dimension reduction method for text classification.,WWW
+Ad-hoc ride sharing application using continuous SPARQL queries.,WWW
+Static force measurement by piezoelectric sensors.,ISCAS
+On ray tracing parametric surfaces.,SIGGRAPH
+Data Models for Secondary Storage Representations.,VLDB
+Maximizing the Contact Opportunity for Vehicular Internet Access.,INFOCOM
+Interactive exploratory search for multi page search results.,WWW
+A double-data rate (DDR) processing-in-memory (PIM) device with wideword floating-point capability.,ISCAS
+Mapping Moving Landscapes by Mining Mountains of Logs: Novel Techniques for Dependency Model Generation.,VLDB
+VoiKiosk: increasing reachability of kiosks in developing regions.,WWW
+State-of-the-art and future directions of high-performance all-digital frequency synthesis in nanometer CMOS.,ISCAS
+Reproducing Color Images Using Custom Inks.,SIGGRAPH
+Multi-color and Artistic Dithering.,SIGGRAPH
+A Proposed AVS Decoder Configuration in the Reconfigurable Video Coding Framework.,ISCAS
+Extracting semantic structure of web documents using content and visual information.,WWW
+Economics of BitTorrent communities.,WWW
+Lossless Video Compression with Residual Image prediction and Coding (RIPC).,ISCAS
+A full-differential analog design of an indirect inverse control law based on neural networks.,ISCAS
+Cache Conscious Algorithms for Relational Query Processing.,VLDB
+Constructing extensible XQuery mappings.,WWW
+A 40nm 1.0Mb pipeline 6T SRAM with variation-tolerant Step-Up Word-Line and Adaptive Data-Aware Write-Assist.,ISCAS
+On-line Lossless Mocap Data Compression.,ISCAS
+Configurable and ad hoc display for clothes.,SIGGRAPH
+Verifying Computations with Streaming Interactive Proofs.,VLDB
+"A 13-bit, low-power, compact ADC suitable for sensor applications.",ISCAS
+PageRank as a function of the damping factor.,WWW
+TextToSpeech: a Heavy-weight Edge Service.,WWW
+Low-power LDPC decoding based on iteration prediction.,ISCAS
+BPB: A Novel Approach for Obtaining Network Path Characteristics in Non-Cooperative Environments.,INFOCOM
+Rethinking Fourier's legacy in signals and systems education.,ISCAS
+A 2.4&micro;W Wake-up Receiver for wireless sensor nodes with -71dBm sensitivity.,ISCAS
+An eigenvalue formulation for determining initial conditions of induction machines in dynamic power system simulations.,ISCAS
+Virtual Backbone Generation and Maintenance in Ad Hoc Network Mobility Management.,INFOCOM
+XVR: X visiting-pattern routing for sensor networks.,INFOCOM
+Toward Practical Constraint Databases.,VLDB
+Generating hypotheses from the web.,WWW
+Identifying mobiles hiding behind wireless routers.,INFOCOM
+Demonstration of the FDB Query Engine for Factorised Databases.,VLDB
+DF or IDF? On the Use of HTML Primary Feature Fields for Web IR.,WWW
+Slicing Long-Running Queries.,VLDB
+CacheMakers : A Co-operative DNS Caching Service.,WWW
+Integrated low voltage and low power CMOS circuits for optical sensing of diffraction based micromachined microphone.,ISCAS
+High-bandwidth power-scalable 10-bit pipelined ADC using bandwidth-reconfigurable operational amplifier.,ISCAS
+Estimating Hop Distance Between Arbitrary Host Pairs.,INFOCOM
+Tile-based GPU optimizations through ESL full system simulation.,ISCAS
+A data-driven sketch of Wikipedia editors.,WWW
+"Throughput, Delay, and Mobility in Wireless Ad Hoc Networks.",INFOCOM
+A New Class-based Early Termination Method for Fast Motion Estimation in Video Coding.,ISCAS
+Object segmentation from wide baseline video.,ISCAS
+Information Processing for CAD/VLSI on a Generalized Data Management System.,VLDB
+Energy efficient broadcast in multiradio multichannel wireless networks.,INFOCOM
+A smart wireless glove for gesture interaction.,SIGGRAPH
+Analyzing and predicting viral tweets.,WWW
+Efficient bump mapping hardware.,SIGGRAPH
+Exploratory search in multi-domain information spaces with liquid query.,WWW
+A Capacitor-free CMOS Low-dropout Voltage Regulator.,ISCAS
+Using Compact GML to Deploy Interactive Maps on Mobile.,WWW
+Analog complex gammatone filter for cochlear implant channels.,ISCAS
+Interference analysis on Resonant Inductive Coupled Wireless Power Transfer links.,ISCAS
+A detection method of nasalised vowels based on an acoustic parameter derived from phase spectrum.,ISCAS
+Efficient multi-view maintenance in the social semantic web.,WWW
+On Semantic Issues Connected with Incomplete Information Data Bases (Abstract).,VLDB
+Features of a Conceptual Schema.,VLDB
+Specifying and Enforcing Intertask Dependencies.,VLDB
+VLSI decoding architecture with improved convergence speed and reduced decoding latency for irregular LDPC codes in WiMAX.,ISCAS
+Detecting the origin of text segments efficiently.,WWW
+Delay Tolerant Event Collection in Sensor Networks with Mobile Sink.,INFOCOM
+Active noise cancellation of motion artifacts in pulse oximetry using isobestic wavelength light source.,ISCAS
+User-Centered Modeling of Interactive Web Sites.,WWW
+Automatic matchmaking of web services.,WWW
+Structural analysis of the emerging event-web.,WWW
+When Speed Has a Price: Fast Information Extraction Using Approximate Algorithms.,VLDB
+Capturing Global Transactions from Multiple Recovery Log Files in a Partitioned Database System.,VLDB
+TELEIOS: A Database-Powered Virtual Earth Observatory.,VLDB
+Analysis and design of a loss-free resistor based on a boost converter in PWM operation.,ISCAS
+Deformation transfer based on stretchiness ratio.,SIGGRAPH
+How to make web sites talk together: web service solution.,WWW
+Trapping region for the double scroll attractor.,ISCAS
+METEOR: metadata and instance extraction from object referral lists on the web.,WWW
+Program notes.,SIGGRAPH
+An Improved method for the design of variable fractional-delay IIR digital filters.,ISCAS
+Failure Control in Multipath Route Tracing.,INFOCOM
+On the degree of MIMO systems.,ISCAS
+On the level.,SIGGRAPH
+"A hybrid approach for spotting, disambiguating and annotating places in user-generated text.",WWW
+How Best to Build Web-Scale Data Managers? A Panel Discussion.,VLDB
+Hybrid CMOS/memristor circuits.,ISCAS
+"Home grown CGI: the cultivation of ""Henry's Garden"".",SIGGRAPH
+What you see is what you search: adaptive visual search framework for the web.,WWW
+A Switched Capacitor Implementation of the Generalized Linear Integrate-and-fire Neuron.,ISCAS
+ViBE: virtual biology experiments.,WWW
+A new QR-decomposition based recursive frequency estimator for multiple sinusoids in impulsive noise environment.,ISCAS
+CNN Implementation of Spin Filters for Electronic Speckle Pattern Interferometry Applications.,ISCAS
+FaceKit: A Database Interface Design Toolkit.,VLDB
+On the trade-off between the number of scrolls and the operating frequency of the chaotic attractors.,ISCAS
+Tracing Ray Differentials.,SIGGRAPH
